@@ -6,7 +6,7 @@
 ## Prerequisites
 **IGME-110 Introduction to Interactive Media** & **IGME-106 Game Development and Algorithmic Problem Solving II**. We expect students in this class to have a basic working knowledge of HTML, CSS, and publishing to RIT's web hosting environment (banjo.rit.edu). As this course involves a significant amount of coding, you should also feel confident in your programming skills. 
 
-**Important: These sections are reserved for GDD and NMID students ONLY**
+**Important: This section is reserved for NMID (BS) and New Media Design (BFA) students ONLY**
 
 ## Instructor and Class Details (Section 07)
 - Professor: Tony Jefferson  
