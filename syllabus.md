@@ -8,32 +8,16 @@
 
 **Important: These sections are reserved for GDD and NMID students ONLY**
 
-## Instructor and Class Details (Section 01)
-- Professor: Dower Chin  
-- Teaching Assistant: Sean Lightfoot
-- Office: See myCourses
-- Email: dxcigm@rit.edu
-- Office hours: After class / email
-- Class meetings: TR 6:30PM - 7:45PM in GOL-2570
+## Instructor and Class Details (Section 07)
+- Professor: Tony Jefferson  
+- Teaching Assistant: Andrew Clark
+- Office: GOL-2525 (IGM "hall")
+- Email: tony@mail.rit.edu
+- Office hours:
+  - MW 3:30PM - 4:45PM in GOL-2525
+  - TR 7:45PM - 8:30PM in GOL-3690
+- Class meetings: TR 5:00PM - 6:15PM in GOL-2435
 
-## Instructor and Class Details (Sections 03,04,05)
-- Professor: Andrew Wheeland 
-- Teaching Assistants: Lucas Nichols (03 & 05), Sam Sorensen (04)
-- Office: GOL-2521
-- Email: andrew.wheeland@rit.edu
-- Office hours: MW 3:00PM - 5:00PM in GOL-2521  ** Updated **
-- Class meetings:
-  - Section 03 - MWF 11:00AM - 11:50AM in GOL-2025
-  - Section 04 - MW 5:00PM - 6:15PM in GOL-2570
-  - Section 05 - TR 11:00AM - 12:15PM in GOL-2435
-
-## Instructor and Class Details (Section 06)
-- Professor: Sean Boyle  
-- Teaching Assistant: Nick Mercadante
-- Office: GOL-2517
-- Email: sean.boyle@rit.edu
-- Office hours: MWF 11:00-2:00
-- Class meetings: MWF 2:00PM - 2:50PM in ORN-1375
 
 ## Course Materials and Communication
 There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
