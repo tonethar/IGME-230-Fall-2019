@@ -1,5 +1,5 @@
-# IGME-230 Fall 2018
-Welcome to the Fall 2018 course materials for IGME-230!
+# IGME-230 Fall 2019
+Welcome to the Fall 2019 course materials for IGME-230!
 - You should first read the [syllabus](syllabus.md)
 - Then look at the semester course [schedule](schedule.md)
 - Browse the requirements of the [four projects](./projects/) we will be building
