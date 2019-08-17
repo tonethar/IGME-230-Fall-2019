@@ -1,5 +1,5 @@
 
-# IGME-230 Web Design & Implementation, Fall 2018: Schedule of Topics 
+# IGME-230 Web Design & Implementation, Fall 2019: Schedule of Topics 
 
 ## Contents
 
