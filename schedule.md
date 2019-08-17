@@ -3,21 +3,21 @@
 
 ## Contents
 
-- [Week 01 (Aug 27) : Course Intro & FTP/banjo/.htaccess files](#week1)
-- [Week 02 (Sep 03) : Intro to Server-side programming (PHP)](#week2)
-- [Week 03 (Sep 10) : Review of Basic HTML/CSS](#week3)
-- [Week 04 (Sep 17) : More CSS/Complex Selectors & Responsive Design](#week4)
-- [Week 05 (Sep 24) : Navigation Systems & Visual Design](#week5)
-- [Week 06 (Oct 01) : CSS Flexbox & CSS Wrap-up](#week6)
-- [Week 07 (Oct 08) : Intro to Client-side Programming & October Break](#week7)
-- [Week 08 (Oct 15) : More DOM/JavaScript & Midterm Exam](#week8)
-- [Week 09 (Oct 22) : Events, Objects, Web Storage & Web Services](#week9)
-- [Week 10 (Oct 29) : HTML Frameworks & Portfolios](#week10)
-- [Week 11 (Nov 05) : Catch up](#week11)
-- [Week 12 (Nov 12) : Intro to PixiJS](#week12)
-- [Week 13 (Nov 19) : More PixiJS & Thanksgiving Holiday](#week13)
-- [Week 14 (Nov 26) : PixiJS Wrap up](#week14)
-- [Week 15 (Dec 03) : Review & Final Exam](#week15)
+- [Week 01 (Aug 26) : Course Intro & FTP/banjo/.htaccess files](#week1)
+- [Week 02 (Sep 02) : Intro to Server-side programming (PHP)](#week2)
+- [Week 03 (Sep 09) : Review of Basic HTML/CSS](#week3)
+- [Week 04 (Sep 16) : More CSS/Complex Selectors & Responsive Design](#week4)
+- [Week 05 (Sep 23) : Navigation Systems & Visual Design](#week5)
+- [Week 06 (Sep 30) : CSS Flexbox & CSS Wrap-up](#week6)
+- [Week 07 (Oct 07) : Intro to Client-side Programming & October Break](#week7)
+- [Week 08 (Oct 14) : More DOM/JavaScript & Midterm Exam](#week8)
+- [Week 09 (Oct 21) : Events, Objects, Web Storage & Web Services](#week9)
+- [Week 10 (Oct 28) : HTML Frameworks & Portfolios](#week10)
+- [Week 11 (Nov 04) : Catch up](#week11)
+- [Week 12 (Nov 11) : Intro to PixiJS](#week12)
+- [Week 13 (Nov 18) : More PixiJS & Thanksgiving Holiday](#week13)
+- [Week 13.5 (Nov 25) : PixiJS Wrap up](#week13)
+- [Week 14 (Dec 02) : Review & Final Exam](#week14)
 - [Finals Week Meeting](#finalsweek)
 
 
@@ -84,14 +84,12 @@ The midterm exam will given the last class meeting of week 8
 ## <a id="week13">Week 13 : More PixiJS
   
  - [Week 13 - More PixiJS](weekly/week-12-notes.md)
+ - [Week 13.5 - Wrap up PixiJS](weekly/week-13-notes.md)
   
-## <a id="week14">Week 14 : PixiJS Wrap up
  
- - [Week 14 - Wrap up PixiJS](weekly/week-13-notes.md)
- 
- ## <a id="week15">Week 15 : The Home Stretch
+ ## <a id="week14">Week 14 : The Home Stretch
   
- - [Week 15 - The Home Stretch](weekly/week-notes-home-stretch.md)
+ - [Week 14 - The Home Stretch](weekly/week-notes-home-stretch.md)
   
 ## <a id="finalsweek">Finals Week Meeting
 
