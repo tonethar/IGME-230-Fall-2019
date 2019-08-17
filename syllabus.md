@@ -1,4 +1,4 @@
-# IGME-230 Web Site Design & Implementation, Fall 2018: Syllabus
+# IGME-230 Web Site Design & Implementation, Fall 2019: Syllabus
 
 ## Course Catalog Description 
 *This course provides an introduction to web development tools and technologies, such as X/HTML, CSS, Javascript and DHTML, AJAX, web platforms and environments, and server-side programming methods.*
