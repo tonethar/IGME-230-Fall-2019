@@ -20,9 +20,18 @@
 
 
 ## Course Materials and Communication
-There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. They will be uploaded to (or linked from) this Github site. 
 
-We will be assigning a number of tutorials from the [Lynda.com](http://lynda.com) website, which you can access for free using your RIT login. 
+### Required Textbook
+
+**Title:** Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics 5th Edition
+**Author:** Jennifer Robbins
+**ISBN-13:** 978-1491960202
+**Where to get it:** In bookstore, or via Amazon Link: https://www.amazon.com/Learning-Web-Design-Beginners-JavaScript/dp/1491960205/
+
+
+### Other Materials
+
+We will be assigning a few tutorials from the [LinkedIn Learning](https://www.linkedin.com/learning/) website, which you can access for free using your RIT login. 
 
 Most course materials and example code will be distributed via Github, and you will also be learning how to use Git and Github to manage your own exercise and project files.
 
@@ -45,7 +54,7 @@ Final course grades are determined using the following scale:
 | <65%	| F |
 
 ### Projects (50%)
-* Project 1 (10%) - [Game Proposal Site](projects/project-1.md)
+* Project 1 (10%) - [Web Site](projects/project-1.md)
 * Project 2 (10%) - [Web Service Application](projects/project-2.md)
 * Project 3 (10%) - [Web Portfolio](projects/project-3.md)
 * Project 4 (20%) - [Interactive Game or Experience](projects/project-4.md)
@@ -76,8 +85,8 @@ The course policy on academic dishonesty is simple: If you get caught cheating o
 [http://www.rit.edu/~w-policy/sectionD/D8.html](http://www.rit.edu/~w-policy/sectionD/D8.html)
 
 ## Important RIT Deadlines
-- Last day of add/drop is Tuesday September 4th, 2018.
-- Last day to withdraw with a grade of "W" is Friday November 9th, 2018.
+- Last day of add/drop is Tuesday September 3rd, 2019.
+- Last day to withdraw with a grade of "W" is Friday November 8th, 2019.
 - You have one semester after the class has ended to challenge your grade. 
 
 ## Notices of Accommodation
