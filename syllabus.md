@@ -23,7 +23,7 @@
 
 ### Required Textbook
 
-**Title:** Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics 5th Edition
+**Title:** *Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics 5th Edition*
 
 **Author:** Jennifer Robbins
 
