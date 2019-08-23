@@ -24,8 +24,11 @@
 ### Required Textbook
 
 **Title:** Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics 5th Edition
+
 **Author:** Jennifer Robbins
+
 **ISBN-13:** 978-1491960202
+
 **Where to get it:** In bookstore, or via Amazon Link: https://www.amazon.com/Learning-Web-Design-Beginners-JavaScript/dp/1491960205/
 
 
