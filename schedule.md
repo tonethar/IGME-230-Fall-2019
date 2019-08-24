@@ -5,8 +5,8 @@
 
 | Week        | Dates         | General Topic                                                       | Notes |
 |-------------|---------------|---------------------------------------------------------------------|---------|
-| 1           | Aug 26-Aug 30 | [How the course works, how the web works](#week1)                   | Sep 2: Labor Day        |
-| 2           | Sep 3-Sep 9   | [Big concepts and HTML markup](#week2)                              |         |
+| 1           | Aug 26        | [How the course works, how the web works](#week1)                   |         |
+| 2           | Sep 2         | [Big concepts and HTML markup](#week2)                              |  Sep 2: Labor Day       |
 | 3           | Sep 10-Sep 16 | [Images and CSS formatting / box model](#week3)                     |         |
 | 4           | Sep 17-Sep 23 | [CSS Layout tools & page design principles](#week4)                 |         |
 | 5           | Sep 24-Sep 30 | [Extra bells & whistles, advanced tools, and putting it all together](#week5) | Sep 25-26: Career Fair        |
