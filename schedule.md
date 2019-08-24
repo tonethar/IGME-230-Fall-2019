@@ -22,24 +22,6 @@
 | 14          | Dec 02        | [Review & Final Exam on last day of class](#week14)                      |         |
 | Finals Week | Dec 12        | [Project 3 Presentations](#finalsweek)                                | Attendance Required! |
 
-## Contents
-
-- [Week 01 (Aug 26) : How the course works, how the web works](#week1)
-- [Week 02 (Sep 02) : Big Concepts and HTML Markup](#week2)
-- [Week 03 (Sep 09) : Images & CSS Formatting / Box Model](#week3)
-- [Week 04 (Sep 16) : CSS Layout Tools & Page Design Principles](#week4)
-- [Week 05 (Sep 23) : Extra Bells & Whistles, Advanced Tools, and putting it all together](#week5)
-- [Week 06 (Sep 30) : Server-side Programming - PHP: Hypertext Preprocessor](#week6)
-- [Week 07 (Oct 07) : Frameworks, Libraries, Templates, JavaScript Intro](#week7)
-- [Week 08 (Oct 14) : JavaScript DOM & Midterm Exam](#week8)
-- [Week 09 (Oct 21) : JavaScript Functions & Events](#week9)
-- [Week 10 (Oct 28) : JavaScript Object Literals, Arrays](#week10)
-- [Week 11 (Nov 04) : JavaScript Webstorage, Web Services, Portfolios](#week11)
-- [Week 12 (Nov 11) : Frameworks v. Browser Standards, Grid Systems, Skeleton demo / Intro to PixiJS](#week12)
-- [Week 13 (Nov 18) : More PixiJS/ES6 Classes & Thanksgiving Holiday](#week13)
-- [Week 13.5 (Nov 25) : PixiJS Wrap up](#week13)
-- [Week 14 (Dec 02) : Review & Final Exam on last day of class](#week14)
-- [Finals Week Meeting : Project 3 Presentations](#finalsweek)
 
 
 ## <a id="week1">Week 1 : How the course works, how the web works
