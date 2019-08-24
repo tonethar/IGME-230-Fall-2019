@@ -1,41 +1,5 @@
 # Week 1A: Course Introduction
 
-During this part of our class time, you'll hear about your professor and teaching assistant, what we'll cover in this course, and how this class will work.
-
-## Before this Session
-
-  - Read the [syllabus](../syllabus.md) (or don't)... We'll go over it, but you'll want to know it.
-  - Log in to our myCourses shell and make sure you can find the class, etc.
-  - You should have purchased the class textbook: *Learning Web Design, 5th Edition* by Jennifer Niederst Robbins.
-
-## During this Session
-  - Find the class GitHub repository & session plans.  (spoiler alert, you just did)
-  - Look over our myCourses and get the lay of the land.
-  - Sign up for our class Discord - An invite link can be found in myCourses.
-    -  Make sure that your Nickname matches your myCourses name.
-
-## After this Session
-  - Be sure you're signed up for Discord.  Post a hello message in the class channel.
-  - On your own, complete [this GitHub tutorial](https://guides.github.com/activities/hello-world/) and create your own "IGME 235" repository (instead of "hello-world").  You will be expected to use it a time or two this semester.
-      - While you're at it, might as well get the [GitHub Student Developer Pack](https://education.github.com/pack) for free (it will allow you to create and access private repos).
-  - If you don't already have it, obtain the Textbook.  You can buy it from the book store, or get it as a Kindle book on Amazon.com.  There are options to rent as well.
-
-## Other Relevant Resources
-- Review of Material that may/should have been covered in IGME-110: [IIM-Web-Review](https://github.com/tonethar/IGME-230-Master/tree/master/IIM-Web-Review)
-- Here's a LinkedIn Learning tutorial that has been used in IGME-110 (particularly, lessons 1-7) that can also help as a refresher: [HTML Essential Training](https://www.linkedin.com/learning/html-essential-training)
-
-<hr>
-<hr>
-
-| <-- Previous Unit | Home | Next Unit -->
-| --- | --- | --- 
-|   :-\  |  [**IGME-230 Schedule**](../schedule.md) | [**week-01B-notes.md**](week-01B-notes.md)
-
-<hr>
-<hr>
-
-# OLD
-# Week 1A: Course Introduction & Intro to HTTP Protocol
 Welcome to the course!
 
 ## I. Overview
@@ -65,7 +29,7 @@ We will:
     - an [Image Gallery](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-image-gallery.md)
     - an app that allows the user to search for and [view animated GIFs](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-gif-finder.md)
     - a [Pixel Art](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-pixel-artist.md) application
-* construct **interactive games** that run in the Web browser (these are also considered to be Web applications):
+* construct **interactive experiences** that run in the Web browser (these are also considered to be Web applications):
   * utilizing the DOM (Document Object Model) and modern CSS features we will build:
       - an [interactive concentration game](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-chibi-matching.md)
       - an [adventure game](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-adventure.md)
@@ -84,7 +48,6 @@ Once you complete this course you should be able to do the following:
 - publish a traditional multi-page website to the Web. The content will be properly "chunked" and the site navigation will be intuitive and easy to use.
 - publish a single-page application (SPA) website portfolio. You can see an example here: http://dougwatro.com - this example has eight distinct "pages" of content that are presented on a single Web page.
 - code a Web application that can connect to Web services, and download/display their data.
-- code a DOM Web game that uses HTML/CSS for the User Interface, and JavaScript for game logic & interactivity.
 - code a sprite-based game such as a shooter or platformer utilizing JavaScript and PixiJS. 
 
 ## V. Pedagogy (how this course is taught!)
