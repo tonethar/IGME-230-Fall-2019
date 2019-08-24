@@ -24,11 +24,12 @@ During this part of our class time, you'll hear about your professor and teachin
 - Review of Material that may/should have been covered in IGME-110: [IIM-Web-Review](https://github.com/tonethar/IGME-230-Master/tree/master/IIM-Web-Review)
 - Here's a LinkedIn Learning tutorial that has been used in IGME-110 (particularly, lessons 1-7) that can also help as a refresher: [HTML Essential Training](https://www.linkedin.com/learning/html-essential-training)
 
-### Session Navigation
+<hr>
+<hr>
 
-| <-- Previous Session |               Home                  | Next Session --> |
-|:--------------------:|:-----------------------------------:|:----------------:|
-|   :-\                | [IGME-235 Schedule](../schedule.md) |   [1-2](1-2.md)  |
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+|   :-\  |  [**IGME-230 Schedule**](../schedule.md) | [**week-01B-notes.md**](week-01B-notes.md)
 
 <hr>
 <hr>
