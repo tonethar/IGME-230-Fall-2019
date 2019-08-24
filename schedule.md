@@ -20,7 +20,7 @@
 | 13          | Nov 18        | [More PixiJS/ES6 Classes & Thanksgiving Holiday](#week13)           |         |            |
 | 13.5        | Nov 25        | [PixiJS Wrap up](#week13)                                           | Nov 27-29: Thanksgiving Break
 | 14          | Dec 02        | [Review & Final Exam on last day of class](#week14)                      |         |
-| Finals Week | Dec 11-Dec 18 | [Project 3 Presentations](#finalsweek)                                | Attendance Required! |
+| Finals Week | Dec 12        | [Project 3 Presentations](#finalsweek)                                | Attendance Required! |
 
 ## Contents
 
@@ -114,8 +114,7 @@ The midterm exam will given the last class meeting of week 8
   
 ## <a id="finalsweek">Finals Week Meeting : Project 3 Presentations
 
-During finals week, we will meet as a group and look at everyone's final projects! 
-- Check SIS for your section's meeting time and location
+During finals week on Thursday 12/12/2019 @ 7PM we will meet as a group and look at everyone's final projects!
 
 <hr>
 
