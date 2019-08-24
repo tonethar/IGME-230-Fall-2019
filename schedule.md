@@ -3,7 +3,7 @@
 
 ## Tentative Weekly Topics
 
-| Week        | Dates         | General Topic                                                       | Notes |
+| Week        | Week of       | General Topic                                                       | Notes |
 |-------------|---------------|---------------------------------------------------------------------|---------|
 | 1           | Aug 26        | [How the course works, how the web works](#week1)                   |         |
 | 2           | Sep 2         | [Big concepts and HTML markup](#week2)                              |  Sep 2: Labor Day       |
