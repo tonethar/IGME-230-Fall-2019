@@ -7,18 +7,19 @@
 |-------------|---------------|---------------------------------------------------------------------|---------|
 | 1           | Aug 26        | [How the course works, how the web works](#week1)                   |         |
 | 2           | Sep 2         | [Big concepts and HTML markup](#week2)                              |  Sep 2: Labor Day       |
-| 3           | Sep 09        | [Images and CSS formatting / box model](#week3)                     |         |
-| 4           | Sep 16        | [CSS Layout tools & page design principles](#week4)                 |         |
-| 5           | Sep 23        | [Extra bells & whistles, advanced tools, and putting it all together](#week5) | Sep 25-26: Career Fair        |
-| 6           | Sep 30        | [PHP: Hypertext Preprocessor](#week6)                                 |         |
-| 7           | Oct 7         | [Frameworks, Libraries, Templates, JavaScript Intro](#week7)          | Oct 14-15: October Break        |
-| 8           | Oct 14        | [JavaScript Document Object Model (DOM), **MIDTERM**](#week8)         |         |
-| 9           | Oct 21        | [JavaScript Functions, Events](#week9)                                |         |
-| 10          | Oct 28        | [JavaScript Object Literals, Arrays](#week10)                         |         |
-| 11          | Nov 7-Nov 13  | [JavaScript Webstorage, Web Services / Portfolios](#week11)           |         |
-| 12          | Nov 14-Nov 20 | [Frameworks vs. Browser Standards, Grid Systems/Skeleton demo / PIXI intro](#week12)  |         |
-| 13          | Nov 21-Dec 2  | [More PIXI (ES 6 Classes) / Project 2 prototypes](#week13)            | Nov 27-29: Thanksgiving Break  |
-| 14          | Dec 3-Dec 9   | [Project 3 prototypes / **FINAL EXAM**](#week14)                      |         |
+| 3           | Sep 09        | [Images & CSS Formatting / Box Model](#week3)                       |         |
+| 4           | Sep 16        | [CSS Layout Tools & Page Design Principles](#week4)                 |         |
+| 5           | Sep 23        | [Extra Bells & Whistles, Advanced Tools, and putting it all together](#week5) | Sep 25-26: Career Fair        |
+| 6           | Sep 30        | [Server-side Programming - PHP: Hypertext Preprocessor](#week6)     |         |
+| 7           | Oct 7         | [Frameworks, Libraries, Templates, JavaScript Intro](#week7)        |         |
+| 8           | Oct 14        | [JavaScript DOM & Midterm Exam](#week8)                             | Oct 14-15: October Break        |
+| 9           | Oct 21        | [JavaScript Functions & Events](#week9)                             |         |
+| 10          | Oct 28        | [JavaScript Object Literals, Arrays](#week10)                       |         |
+| 11          | Nov 4         | [JavaScript Webstorage, Web Services, Portfolios](#week11)          |         |
+| 12          | Nov 11        | [Frameworks v. Browser Standards, Grid Systems, Skeleton demo / Intro to PixiJS](#week12)  |         |
+| 13          | Nov 18        | [More PixiJS/ES6 Classes & Thanksgiving Holiday](#week13)           |         |            |
+| 13.5        | Nov 25        | [PixiJS Wrap up](#week13)                                           | Nov 27-29: Thanksgiving Break
+| 14          | Dec 02        | [Review & Final Exam on last day of class](#week14)                      |         |
 | Finals Week | Dec 11-Dec 18 | [Project 3 Presentations](#finalsweek)                                | Attendance Required! |
 
 ## Contents
