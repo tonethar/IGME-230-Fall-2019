@@ -57,16 +57,16 @@ Final course grades are determined using the following scale:
 | <65%	| F |
 
 ### Projects (50%)
-* Project 1 (10%) - [Web Site](projects/project-1.md)
-* Project 2 (10%) - [Web Service Application](projects/project-2.md)
-* Project 3 (10%) - [Web Portfolio](projects/project-3.md)
-* Project 4 (20%) - [Interactive Game or Experience](projects/project-4.md)
+* Project 1 (10%) - [Tutorial Web Site](projects/project-1.md)
+* Project 2 (15%) - [Web Service Application](projects/project-2.md)
+* Project 3 (20%) - [Interactive Experience or Game](projects/project-3.md)
+* Project 4 (5%) - [Web Portfolio](projects/portfolio-project.md)
 
 
 ### Exams (30%)
 These exams consist of short answer, multiple choice, and "write some code" questions. There will be no make-ups or re-takes allowed without prior permission.
-* Written Midterm Exam  - will be given during the 8th week of the semester
-* Written Final Exam - will be given on the last regular class meeting of the semester
+- **Written Midterm Exam** - will be given the second class meeting of the 7th week of the semester, (Thursday October 10th - right before Columbus day break)
+- **Written Final Exam** - will be given on the last regular class meeting of the semester, which is Thursday December 5th
 
 ### Homework (15%)
 Completing the HW and in-class exercises is essential to learning the course material. You can expect an average of one HW assignment per class meeting. Keep an eye on the mycourses dropboxes for the dues dates of these assignments.
