@@ -11,8 +11,8 @@
 | 4           | Sep 16        | [CSS Layout Tools & Page Design Principles](#week4)                 |         |
 | 5           | Sep 23        | [Extra Bells & Whistles, Advanced Tools, and putting it all together](#week5) | Sep 25-26: Career Fair        |
 | 6           | Sep 30        | [Server-side Programming - PHP: Hypertext Preprocessor](#week6)     |         |
-| 7           | Oct 7         | [Frameworks, Libraries, Templates, JavaScript Intro](#week7)        |         |
-| 8           | Oct 14        | [JavaScript DOM & Midterm Exam](#week8)                             | Oct 14-15: October Break        |
+| 7           | Oct 7         | [Catch-up / Midterm Exam](#week7)                                   |         |
+| 8           | Oct 14        | [JavaScript Review / JavaScript DOM](#week8)         | Oct 14-15: October Break        |
 | 9           | Oct 21        | [JavaScript Functions & Events](#week9)                             |         |
 | 10          | Oct 28        | [JavaScript Object Literals, Arrays](#week10)                       |         |
 | 11          | Nov 4         | [JavaScript Webstorage, Web Services, Portfolios](#week11)          |         |
