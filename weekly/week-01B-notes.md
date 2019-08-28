@@ -63,8 +63,15 @@
 - the **user id** of the account where you want to post files (your RIT ***`abc1234`*** id)
 - the **password** of the account (your ***password***)
 - the **port** you wish to connect to (this is ***22*** which is SFTP - "Secure FTP")
-- So go 
+- Make it so!
 
+
+![screenshot](_images/FTP-1.jpg)
+
+
+### III-B. Create a 230 folder
+
+- Now that you are connected 
 
 ![screenshot](_images/FTP-1.jpg)
  
