@@ -71,9 +71,18 @@
 
 ### III-B. Create a 230 folder
 
-- Now that you are connected 
+- Now that you are connected, you can see your computer's files on the left side of the screen, and the banjo.rit.edu files on the right
+- Go ahead and click on the folders on the right side of the Filezilla window so that the **`www`** folder is selected
 
-![screenshot](_images/FTP-1.jpg)
+![screenshot](_images/FTP-2.jpg)
+
+
+- with the **`www`** folder selected, go ahead and right-click and choose "Create Directory" from the pop-up menu
+- name the new directory **`230`**
+- select the 230 folder, right-click,  and choose "File Attributes..."
+- make the attributes of the folder match the screenshot below:
+
+![screenshot](_images/FTP-3.jpg)
  
 <!-- 1. connect to **`banjo.rit.edu`** with an FTP client - instructions are here: [How to post to RIT's *banjo* web server](https://github.com/tonethar/IGME-230-Master/tree/master/notes/posting-to-banjo.md) -->
 
