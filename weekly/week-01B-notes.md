@@ -52,16 +52,18 @@
 ## III. FTP Demo
 
 - **FTP** stands for **File Transfer Protocol** - which is a way of transferring files between computers
+- `banjo.rit.edu` is the address of the web server that hosts files for people.rit.edu, which is where your personal RIT account is located 
 
 
 ### III-A. Connect to the banjo.rit.edu server
 
-1. Fire up Filezilla or a similr FTP client
+1. Fire up *Filezilla* (which is on the lab PCs) or a similar FTP client
 2. FTP clients need 4 pieces of information before they can connect to a server
 - the **address** of the server to connect to (for today this is ***banjo.rit.edu***)
 - the **user id** of the account where you want to post files (your RIT ***`abc1234`*** id)
 - the **password** of the account (your ***password***)
 - the **port** you wish to connect to (this is ***22*** which is SFTP - "Secure FTP")
+- So go 
 
 
 ![screenshot](_images/FTP-1.jpg)
