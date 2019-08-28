@@ -50,13 +50,24 @@
 
 
 ## III. FTP Demo
-FTP demo and review (we will do this together in class):
-   - Create a local 230 directory, and put you *hello.html* file in it
-   - **Reminder:** always keep backups, bring a flash drive to class; the `230` folder on people.rit.edu is where course work will usually be posted
+
+- **FTP** stands for **File Transfer Protocol** - which is a way of transferring files between computers
 
 
+### III-A. Connect to the banjo.rit.edu server
+
+1. Fire up Filezilla or a similr FTP client
+2. FTP clients need 4 pieces of information before they can connect to a server
+- the **address** of the server to connect to (for today this is ***banjo.rit.edu***)
+- the **user id** of the account where you want to post files (your RIT ***`abc1234`*** id)
+- the **password** of the account (your ***password***)
+- the **port** you wish to connect to (this is ***22*** which is SFTP - "Secure FTP")
+
+
+![screenshot](_images/FTP-1.jpg)
  
-1. connect to **`banjo.rit.edu`** with an FTP client - instructions are here: [How to post to RIT's *banjo* web server](https://github.com/tonethar/IGME-230-Master/tree/master/notes/posting-to-banjo.md)
+<!-- 1. connect to **`banjo.rit.edu`** with an FTP client - instructions are here: [How to post to RIT's *banjo* web server](https://github.com/tonethar/IGME-230-Master/tree/master/notes/posting-to-banjo.md) -->
+
 1. create a **`230`** folder and place it in your **`www`** folder
 1. post *hello.html* to your banjo **`230`** folder
 1. review file/folder permissions to be sure they are correct
