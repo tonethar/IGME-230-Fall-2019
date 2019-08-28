@@ -21,11 +21,18 @@
 	h1{
 	  font-family:sans-serif;
 	}
+	
+	p{
+		font-style:italic;
+	}
 	</style>
 </head>
    <body>
       <h1>Week 1 in 230!</h1>
-      <p>I am stoked about this class!</p>
+      <p>We will be learning a lot this semester!</p>
+      <p>Course GitHub is here: <a href="https://github.com/tonethar/IGME-230-Fall-2019">IGME-230 Fall 2019</a></p>
+      <!-- 	This simple page actually has a lot going on in it! -->
+			<!-- 	These are HTML comments that is not visible in the browser window -->
    </body>
 </html>
 ```
