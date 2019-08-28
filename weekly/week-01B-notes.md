@@ -71,6 +71,8 @@
 
 ### III-B. Create a 230 folder
 
+
+
 - Now that you are connected, you can see your computer's files on the left side of the screen, and the banjo.rit.edu files on the right
 - Go ahead and click on the folders on the right side of the Filezilla window so that the **`www`** folder is selected
 
@@ -80,18 +82,21 @@
 - with the **`www`** folder selected, go ahead and right-click and choose "Create Directory" from the pop-up menu
 - name the new directory **`230`**
 - select the 230 folder, right-click,  and choose "File Attributes..."
-- make the attributes of the folder match the screenshot below:
+- make the attributes of the folder match the screenshot below. These are the correct file permissions anytime you create a folder on banjo:
 
 ![screenshot](_images/FTP-3.jpg)
- 
-<!-- 1. connect to **`banjo.rit.edu`** with an FTP client - instructions are here: [How to post to RIT's *banjo* web server](https://github.com/tonethar/IGME-230-Master/tree/master/notes/posting-to-banjo.md) -->
 
-1. create a **`230`** folder and place it in your **`www`** folder
-1. post *hello.html* to your banjo **`230`** folder
-1. review file/folder permissions to be sure they are correct
-1. **Reminder:** **`banjo.rit.edu`** is the FTP name, but the browser will access the URL **`people.rit.edu`**
-1. navigate a browser to that directory - **`http://people.rit.edu/~abc1234/230/hello.html`** and you should see your *hello.html* page
-1. remember CSS? Let's add some CSS style rules to the page!
+
+### III-C. Verify that your 230 folder is visible on the web
+
+- Point a web browser at `http://people.rit.edu/~abc1234/230` (where `abc1234` is your id) - you should see an empty folder like this below. If it doesn't look right, go ahead and ask for help from a neighbor, or the TA or Prof
+
+![screenshot](_images/FTP-4.jpg)
+ 
+
+### III-D. Post hello.html to the web
+
+- This is easy 
 
 
 <hr><hr>
