@@ -3,7 +3,7 @@
 ## Topics
 - I. How the web works
 - II. A Simple Web Page
-- III. Demo: FTP & Setting up your `230` directory
+- III. Demo: FTP & Setting up your `230` directory on banjo.rit.edu
 
 ## I. How the web works
 
