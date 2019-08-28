@@ -68,10 +68,9 @@
 
 ![screenshot](_images/FTP-1.jpg)
 
+<hr>
 
 ### III-B. Create a 230 folder
-
-
 
 - Now that you are connected, you can see your computer's files on the left side of the screen, and the banjo.rit.edu files on the right
 - Go ahead and click on the folders on the right side of the Filezilla window so that the **`www`** folder is selected
@@ -86,6 +85,7 @@
 
 ![screenshot](_images/FTP-3.jpg)
 
+<hr>
 
 ### III-C. Verify that your 230 folder is visible on the web
 
@@ -93,10 +93,14 @@
 
 ![screenshot](_images/FTP-4.jpg)
  
+<hr>
 
 ### III-D. Post hello.html to the web
 
-- This is easy 
+- This is easy! With the **`230`** folder selected, just drag the **hello.html** file to the window, and it will upload automatically.
+- You will also need to right-click and choose "File Attributes..." for **hello.html** - for files (as opposed to folders) the permissions will usually look like this:
+
+![screenshot](_images/FTP-5.jpg)
 
 
 <hr><hr>
