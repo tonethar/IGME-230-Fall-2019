@@ -22,7 +22,7 @@
 	  font-family:sans-serif;
 	}
 	
-	p{
+	p:first-of-type{
 		font-style:italic;
 	}
 	</style>
