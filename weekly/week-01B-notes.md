@@ -1,14 +1,14 @@
 # Week 1B - Review of *banjo.rit.edu* & FTP
 
 ## Topics
-- FTP review
-- Setting up your `230` directory
-- Scripting the server with `.htaccess` files
+- I. A Simple Web Page
+- II. How the web works
+- III. Demo: FTP & Setting up your `230` directory
 
-## I. FTP Demo
-FTP demo and review (we will do this together in class):
-   - Create a local 230 directory, and put a *hello.html* file in it
-   - **Reminder:** always keep backups, bring a flash drive to class; the `230` folder on people.rit.edu is where course work will usually be posted
+
+## I. A Simple Web Page
+
+1) Fire up a text editor such as NotePad++, Visual Studio Code, or Brackets and create and save the following file. NOTE: *Be sure to use **type** "plain text" or "HTML", do NOT create web pages of type "rich text"*
 
 **hello.html**
 ```
@@ -29,6 +29,22 @@ FTP demo and review (we will do this together in class):
    </body>
 </html>
 ```
+
+2) Now open the page up in a web browser, it should look something like this:
+
+
+
+## II. How the web works
+- Follow along with the instructor as we explore the headers sent by browsers and servers.
+    - Legacy Notes: [HTTP Protocol Intro](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/http-protocol-intro.md)
+    - Demo: [HTTP Protocol Demo](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/http-protocol-demo.md)
+
+## III. FTP Demo
+FTP demo and review (we will do this together in class):
+   - Create a local 230 directory, and put you *hello.html* file in it
+   - **Reminder:** always keep backups, bring a flash drive to class; the `230` folder on people.rit.edu is where course work will usually be posted
+
+
  
 1. connect to **`banjo.rit.edu`** with an FTP client - instructions are here: [How to post to RIT's *banjo* web server](https://github.com/tonethar/IGME-230-Master/tree/master/notes/posting-to-banjo.md)
 1. create a **`230`** folder and place it in your **`www`** folder
