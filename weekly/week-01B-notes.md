@@ -104,7 +104,7 @@
 
 ![screenshot](_images/FTP-5.jpg)
 
-- Point a web browser at `http://people.rit.edu/~abc1234/230/hello.htmk` (where `abc1234` is your id) - you should see the web page!
+- Point a web browser at `http://people.rit.edu/~abc1234/230/hello.html` (where `abc1234` is your id) - you should see the web page!
 
 ### III-E. Submission
 
