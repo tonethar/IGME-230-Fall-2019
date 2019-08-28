@@ -1,14 +1,20 @@
-# Week 1B - Review of *banjo.rit.edu* & FTP
+# Week 1B - How the web works / *banjo.rit.edu* & FTP
 
 ## Topics
-- I. A Simple Web Page
-- II. How the web works
+- I. How the web works
+- II. A Simple Web Page
 - III. Demo: FTP & Setting up your `230` directory
 
-
-## I. A Simple Web Page
+## I. How the web works
+- Follow along with the instructor as we explore the headers sent by browsers and servers.
+    - Legacy Notes: [HTTP Protocol Intro](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/http-protocol-intro.md)
+    - Demo: [HTTP Protocol Demo](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/http-protocol-demo.md)
+    
+## II. A Simple Web Page
 
 1) Fire up a text editor such as NotePad++, Visual Studio Code, or Brackets and create and save the following file. NOTE: *Be sure to use **type** "plain text" or "HTML", do NOT create web pages of type "rich text"*
+
+- Note: We will give a quick explanation of what's going on here in class, but LWD chapters 3 & 4 will also walk you through the creation of a simple web page and give additional information
 
 **hello.html**
 ```
@@ -41,10 +47,7 @@
 
 ![screenshot](_images/hello-page.jpg)
 
-## II. How the web works
-- Follow along with the instructor as we explore the headers sent by browsers and servers.
-    - Legacy Notes: [HTTP Protocol Intro](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/http-protocol-intro.md)
-    - Demo: [HTTP Protocol Demo](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/http-protocol-demo.md)
+
 
 ## III. FTP Demo
 FTP demo and review (we will do this together in class):
