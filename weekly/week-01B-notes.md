@@ -9,7 +9,7 @@
 
 - We will look at the LWD chapter 2 slides in class. These give a nice overview of how web pages are transmitted, assembled and displayed by web browsers
 - Next, follow allow along with the instructor as we explore the headers sent by browsers and servers.
-    - Legacy Notes: [HTTP Protocol Intro](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/http-protocol-intro.md)
+    - Notes: [HTTP Protocol Intro](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/http-protocol-intro.md)
     - Demo: [HTTP Protocol Demo](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/http-protocol-demo.md)
     
 ## II. A Simple Web Page
