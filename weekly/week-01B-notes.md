@@ -39,7 +39,7 @@
 
 2) Now open the page up in a web browser, it should look something like this:
 
-
+![screenshot](_images/hello-page.jpg)
 
 ## II. How the web works
 - Follow along with the instructor as we explore the headers sent by browsers and servers.
