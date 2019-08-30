@@ -79,7 +79,7 @@
 
 - Now that you are connected, you can see your computer's files on the left side of the screen, and the banjo.rit.edu files on the right
 - Go ahead and click on the folders on the right side of the Filezilla window so that the **`www`** folder is selected
-- 
+- This is what you should see:
 
 ![screenshot](_images/FTP-2.jpg)
 
