@@ -90,8 +90,8 @@
 
 ![screenshot](_images/FTP-6.jpg)
 
-
-- Select the 230 folder, right-click,  and choose "File Attributes..."
+- Now we need to give the web server permission to open this folder and access a listing of the files in it - this is called setting the Unix *file permissions* of the folder. This is something that the FTP client will be able to do for us.
+- Go ahead and select the **`230`** folder, right-click,  and choose "File Attributes..."
 - Make the attributes of the folder match the screenshot below. These are the correct file permissions anytime you create a folder on banjo:
 
 ![screenshot](_images/FTP-3.jpg)
@@ -100,7 +100,7 @@
 
 ### III-C. Verify that your 230 folder is visible on the web
 
-- Point a web browser at `http://people.rit.edu/~abc1234/230` (where `abc1234` is your id) - you should see an empty folder like this below. If it doesn't look right, go ahead and ask for help from a neighbor, or the TA or Prof
+- Point a web browser at `http://people.rit.edu/~abc1234/230` (where `abc1234` is your id) - you should see an empty folder like this below. If it doesn't look right, go ahead and ask for help from a neighbor, or the TA or Prof:
 
 ![screenshot](_images/FTP-4.jpg)
  
@@ -109,11 +109,11 @@
 ### III-D. Post hello.html to the web
 
 - This is easy! Head back to Filezilla. With the **`230`** folder selected, just drag the **hello.html** file to the window, and the **hello.html** file will upload automatically.
-- You will also need to right-click and choose "File Attributes..." for **hello.html** - for files (as opposed to folders) the permissions will usually look like this:
+- As with the **`230`** folder, you will also to give the web server *permission* to open the file you just uploaded. As before, right-click and choose "File Attributes..." for **hello.html** - for files (as opposed to folders) the permissions will usually look like this:
 
 ![screenshot](_images/FTP-5.jpg)
 
-### III-D. Verify that your hello.html file is visible on the web
+### III-E. Verify that your hello.html file is visible on the web
 
 - Point a web browser at `http://people.rit.edu/~abc1234/230/hello.html` (where `abc1234` is your id) - you should see the web page!
 
@@ -121,7 +121,7 @@
 
 <hr>
 
-### III-E. Assignment Submission
+### III-F. Assignment Submission
 
 - Head to the myCourses **Assignments** area to submit your link!
 
