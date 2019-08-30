@@ -117,7 +117,7 @@
 
 <hr>
 
-### III-E. Submission
+### III-E. Assignment Submission
 
 - Head to the myCourses **Assignments** area to submit your link!
 
