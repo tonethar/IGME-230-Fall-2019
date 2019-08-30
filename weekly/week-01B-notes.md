@@ -79,19 +79,20 @@
 
 - Now that you are connected, you can see your computer's files on the left side of the screen, and the banjo.rit.edu files on the right
 - Go ahead and click on the folders on the right side of the Filezilla window so that the **`www`** folder is selected
+- 
 
 ![screenshot](_images/FTP-2.jpg)
 
-- now we need a new *directory* (aka *folder*) to put all of our course materials in. We will give this directory the highly descriptive name of **`230`*** - go ahead and perform the following steps:
-  - with the **`www`** folder selected, go ahead and right-click and choose "Create Directory" from the pop-up menu
-  - name the new directory **`230`**
-
+- Now we need a new *directory* (aka *folder*) to put all of our course materials in. We will give this directory the highly descriptive name of **`230`** - to accomplish this,  perform the following steps:
+  - With the **`www`** folder selected, go ahead and right-click and choose "Create Directory" from the pop-up menu
+  - Name the new directory **`230`**
+  - This is what you should see:
 
 ![screenshot](_images/FTP-6.jpg)
 
 
-- select the 230 folder, right-click,  and choose "File Attributes..."
-- make the attributes of the folder match the screenshot below. These are the correct file permissions anytime you create a folder on banjo:
+- Select the 230 folder, right-click,  and choose "File Attributes..."
+- Make the attributes of the folder match the screenshot below. These are the correct file permissions anytime you create a folder on banjo:
 
 ![screenshot](_images/FTP-3.jpg)
 
