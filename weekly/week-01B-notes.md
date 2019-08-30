@@ -12,6 +12,9 @@
     - Notes: [HTTP Protocol Intro](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/http-protocol-intro.md)
     - Demo: [HTTP Protocol Demo](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/http-protocol-demo.md)
     
+    
+<hr>
+
 ## II. A Simple Web Page
 
 1) Fire up a text editor such as NotePad++, Visual Studio Code, or Brackets and create and save the following file. NOTE: *Be sure to use **type** "plain text" or "HTML", do NOT create web pages of type "rich text"*
@@ -49,7 +52,7 @@
 
 ![screenshot](_images/hello-page.jpg)
 
-
+<hr>
 
 ## III. FTP Demo
 
@@ -79,9 +82,9 @@
 
 ![screenshot](_images/FTP-2.jpg)
 
-
-- with the **`www`** folder selected, go ahead and right-click and choose "Create Directory" from the pop-up menu
-- name the new directory **`230`**
+- now we need a new *directory* (aka *folder*) to put all of our course materials in. We will give this directory the highly descriptive name of **`230`*** - go ahead and perform the following steps:
+  - with the **`www`** folder selected, go ahead and right-click and choose "Create Directory" from the pop-up menu
+  - name the new directory **`230`**
 
 
 ![screenshot](_images/FTP-6.jpg)
