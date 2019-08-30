@@ -104,10 +104,12 @@
 
 ### III-D. Post hello.html to the web
 
-- This is easy! With the **`230`** folder selected, just drag the **hello.html** file to the window, and it will upload automatically.
+- This is easy! Head back to Filezilla. With the **`230`** folder selected, just drag the **hello.html** file to the window, and the **hello.html** file will upload automatically.
 - You will also need to right-click and choose "File Attributes..." for **hello.html** - for files (as opposed to folders) the permissions will usually look like this:
 
 ![screenshot](_images/FTP-5.jpg)
+
+### III-D. Verify that your hello.html file is visible on the web
 
 - Point a web browser at `http://people.rit.edu/~abc1234/230/hello.html` (where `abc1234` is your id) - you should see the web page!
 
