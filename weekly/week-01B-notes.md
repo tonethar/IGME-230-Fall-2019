@@ -82,6 +82,11 @@
 
 - with the **`www`** folder selected, go ahead and right-click and choose "Create Directory" from the pop-up menu
 - name the new directory **`230`**
+
+
+![screenshot](_images/FTP-6.jpg)
+
+
 - select the 230 folder, right-click,  and choose "File Attributes..."
 - make the attributes of the folder match the screenshot below. These are the correct file permissions anytime you create a folder on banjo:
 
