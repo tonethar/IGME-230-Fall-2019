@@ -34,11 +34,7 @@ This week we will discuss the [Apache](http://httpd.apache.org) web server that 
 ## <a id="week2">Week 2 : Command-line UNIX & .htaccess files
   
  This week we will look at interacting with the web server file system on the command line, and learn how to configure certain server behavior with .htaccess files
- 
- - [Week 2 - Introduction to PHP](weekly/week-02-notes.md)
-  
- Later on in the semester we will revisit PHP and use it to create our own customized *web service*.
-  
+
 ## <a id="week3">Week 3 : Images & CSS Formatting / Box Model
   
   - [Week 3A - Review of HTML](weekly/week-03A-notes.md)
