@@ -34,6 +34,8 @@ This week we will discuss the [Apache](http://httpd.apache.org) web server that 
 ## <a id="week2">Week 2 : Command-line UNIX & .htaccess files
   
  This week we will look at interacting with the web server file system on the command line, and learn how to configure certain server behavior with .htaccess files
+ 
+ - [Week 2 - Command-line UNIX & .htaccess files](weekly/week-02-notes.md)
 
 ## <a id="week3">Week 3 : Images & CSS Formatting / Box Model
   
