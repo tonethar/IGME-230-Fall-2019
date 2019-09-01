@@ -6,7 +6,7 @@
 | Week        | Week of       | General Topic                                                       | Notes |
 |-------------|---------------|---------------------------------------------------------------------|---------|
 | 1           | Aug 26        | [How the course works, how the web works](#week1)                   |         |
-| 2           | Sep 2         | [Big concepts and HTML markup](#week2)                              |  Sep 2: Labor Day       |
+| 2           | Sep 2         | [Command-line UNIX & .htaccess files](#week2)                              |  Sep 2: Labor Day       |
 | 3           | Sep 09        | [Images & CSS Formatting / Box Model](#week3)                       |         |
 | 4           | Sep 16        | [CSS Layout Tools & Page Design Principles](#week4)                 |         |
 | 5           | Sep 23        | [Extra Bells & Whistles, Advanced Tools, and putting it all together](#week5) | Sep 25-26: Career Fair        |
@@ -31,9 +31,9 @@ This week we will discuss the [Apache](http://httpd.apache.org) web server that 
   - [Week 1A - Course Introduction](weekly/week-01A-notes.md)
   - [Week 1B - Review of banjo.rit.edu & FTP & .htaccess files](weekly/week-01B-notes.md)
   
-## <a id="week2">Week 2 : Big Concepts and HTML Markup
+## <a id="week2">Week 2 : Command-line UNIX & .htaccess files
   
- This week we will continue to look at web server scripting, and will cover enough server-side programming (PHP) to make you dangerous :-)
+ This week we will look at interacting with the web server file system on the command line, and learn how to configure certain server behavior with .htaccess files
  
  - [Week 2 - Introduction to PHP](weekly/week-02-notes.md)
   
