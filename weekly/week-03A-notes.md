@@ -93,6 +93,10 @@ https://validator.w3.org/
 - [Lynda.com HTML Essential Training, Lessons 4-5.](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu) - discusses structuring content, and linking to distinct parts of your page.
 - [W3Schools](https://www.w3schools.com) - a reference for all things Web (HTML, CSS, JavaScript, etc.)
 
+## X. Other Relevant Resources
+- [50 Examples of Responsive Web Design (plus 1)](https://www.awwwards.com/50-examples-of-responsive-web-design.html)
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - A tool for testing your page's speed, providing a 'score' and useful insights to improve.
+
 ## X. Exercises
 - [Basic Markup/CSS - Recipe](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-3/recipe.md) - Note: This exercise covers material from both today and next class. If you want to work ahead, that's fine.
 - [230 Home Page](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/230-home-page.md)
