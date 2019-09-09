@@ -6,6 +6,8 @@
 - Any quick questions on Unix?
   - Totally optional - learn more fundamentals if you are interested --> http://www.ee.surrey.ac.uk/Teaching/Unix/index.html
 - `.htaccess` error page demo
+  - for the HW, the error page functionality only works in your `abc1234/230/error/` folder
+  - let's demo how to get it to work for your entire `abc1234/230` folder!
 - LWD Chapter 3 - *Big Concepts*
   - Multitude of devices
   - Web standard
