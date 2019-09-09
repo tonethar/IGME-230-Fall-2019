@@ -2,7 +2,7 @@
 
 ## I. Topics & Overview
 - Questions on Unix?
-- .htaccess error page demo
+- `.htaccess` error page demo
 - LWD Chapter 3 - *Big Concepts*
   - Multitude of devices
   - Web standard
@@ -15,7 +15,15 @@
   - Minimal HTML document structure 
   - Identifying text elements: Block and inline 
   - Troubleshooting and validating HTML
-- 
+- LWD Chapter 5 - *Marking Up Text* (let's start this one)
+  - General block elements 
+  - Breaks
+  - Lists
+  - Page organizing elements
+  - Inline elements
+  - Generic elements
+  - ARIA introduction
+  - Escaping characters
 
 ## II. The layers of Web design
 1. Content
