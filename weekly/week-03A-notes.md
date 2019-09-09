@@ -4,6 +4,7 @@
 - Reminder: I have office hours 4 days a week (see [syllabus.md](../syllabus.md)) - come see me if you have questions!
 - Announcement: PDFs of all of the LWD slides are in myCourses 
 - Any quick questions on Unix?
+  - Totally optional - learn more fundamentals if you are interested --> http://www.ee.surrey.ac.uk/Teaching/Unix/index.html
 - `.htaccess` error page demo
 - LWD Chapter 3 - *Big Concepts*
   - Multitude of devices
