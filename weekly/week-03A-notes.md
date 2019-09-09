@@ -1,6 +1,7 @@
 # Week 3A - Review of HTML
 
 ## I. Topics & Overview
+- Reminder: I have office hours 4 days a week (see [syllabus.md](../syllabus.md)) - come see me if you have questions!
 - Questions on Unix?
 - `.htaccess` error page demo
 - LWD Chapter 3 - *Big Concepts*
