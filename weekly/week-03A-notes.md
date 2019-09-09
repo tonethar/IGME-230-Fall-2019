@@ -53,7 +53,7 @@ You might need this to follow along with any demos - below is the bare minimum m
 - [50 Examples of Responsive Web Design (plus 1)](https://www.awwwards.com/50-examples-of-responsive-web-design.html)
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - A tool for testing your page's speed, providing a 'score' and useful insights to improve.
 
-## VI. Exercises
+## VI. Homework (see myCourses dropbox for due date) 
 - [Basic Markup/CSS - Recipe](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-3/recipe.md) - Note: This exercise covers material from both today and next class. If you want to work ahead, that's fine.
 
 
