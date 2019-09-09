@@ -1,10 +1,21 @@
 # Week 3A - Review of HTML
 
 ## I. Topics & Overview
-- HTML Basics
-- Structural and semantic tags
-- Paths
-- HTML validation
+- Questions on Unix?
+- .htaccess error page demo
+- LWD Chapter 3 - *Big Concepts*
+  - Multitude of devices
+  - Web standard
+  - Progressive enhancement
+  - Responsive web design
+  - Accessibility
+  - Site performance
+- LWD Chapter 4 - *Creating a Simple Page*
+  - How markup works: Elements and attributes
+  - Minimal HTML document structure 
+  - Identifying text elements: Block and inline 
+  - Troubleshooting and validating HTML
+- 
 
 ## II. The layers of Web design
 1. Content
