@@ -55,6 +55,9 @@ You might need this to follow along with any demos - below is the bare minimum m
 
 ## VI. Homework (see myCourses dropbox for due date) 
 - [Basic Markup/CSS - Recipe](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-3/recipe.md) - Note: This exercise covers material from both today and next class. If you want to work ahead, that's fine.
+- Read *prior to* the start of class Tuesday 9/17:
+  - LWD Chapter 11 - *Introducing Cascading Style Sheets*
+  - LWD Chapter 12 - *Formatting Text*
 
 
 <hr><hr>
