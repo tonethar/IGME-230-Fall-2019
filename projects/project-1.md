@@ -2,6 +2,23 @@
 ## I. Overview
 ...
 
+## II. Required Content
+
+- The title of what the tutorial is for.
+- A Brief description of the tutorial.
+- At least 6 steps in the tutorial, spread over at least 2 pages.
+- Recognizable images for the tutorial steps:
+  - Images must be in a web friendly image format (gif, jpg, or png) AND of appropriate resolution for the web.
+- Brief instructions for each step.
+- Optional: Any other information about the item the tutorial is for. This could be links to the item, information about the item, etc. Put this content is a separate <div>, or in an <aside>. 
+- At least one other page, matching your main page's design and navigation, that tells me the following:
+  - Why you chose this topic
+  - How you went above and beyond the base requirements and anything special you want me to see that might not be immediately obvious
+  - How you could have improved
+  - Cite the sources of all information, tutorials, images and other media used
+- You are, of course, free to add additional pages as they make sense within the context of your tutorial.
+
+
 ## II. Requirements
 Location: The page will be located in the project1 directory in your 230 directory on Banjo. This means that the location of page on the web will be **`http://people.rit.edu/abc1234/230/project1/`** (where 'abc1234' is your RIT id), as shown below:
 
