@@ -1,7 +1,7 @@
 # Project 1 - Tutorial Web Site
 ## I. Overview
 - You are going to be building a responsive (mobile/tablet/desktop friendly) content-driven web site.
-- The content will be a *tutorial* - of your creation. Here's wikipedia's definition - *A tutorial is a method of transferring knowledge and may be used as a part of a learning process. More interactive and specific than a book or a lecture, a tutorial seeks to teach by example and supply the information to complete a certain task.*
+- The content will be a *tutorial* of your creation. Here's wikipedia's definition - ***A tutorial is a method of transferring knowledge and may be used as a part of a learning process. More interactive and specific than a book or a lecture, a tutorial seeks to teach by example and supply the information to complete a certain task.***
 - the subject of the tutorial could be anything, but try to make it something that you are personally invested in:
   - you are already accomplished at the subject of the tutorial, thus you are a natural teacher of the subject OR
   - it is a subject that you would like to get better at, thus you are going to get good at the subject, then teach it to others
@@ -11,46 +11,36 @@
     - https://jerryjenkins.com/how-to-write-a-book/
     - https://houseofyumm.com/barbacoa/
 
-## II. Required Content in Final Version
+## II. Required Content
 
-- the main page of the tutorial is named **tutorial.html**
+### II-A. tutorial.html
+The main page of the tutorial is named **tutorial.html** and it has the following content:
+
 - The title of what the tutorial is for.
 - A brief description of the tutorial (the subject, and what the user will get out of it)
 - At least 6 steps in the tutorial, containing a total of at least 500 words
 - Images for the tutorial steps:
-  - Images must be in a web friendly image format (gif, jpg, or png) AND of appropriate resolution for the web.
-- Optional: Any other information about the item the tutorial is for. This could be links to the item, information about the item, etc. Put this content is a separate `<div>`, or in an `<aside>`. 
-- At least one other page, named **index.html** which will be the *landing page*. It matches your main page's design and navigation, and tells us the following:
-  - Why you chose this topic
-  - How you went above and beyond the base requirements and anything special you want me to see that might not be immediately obvious
-  - How you could have improved
+  - Images must be in a web friendly image format (gif, jpg, or png) AND of appropriate dimensions for the web.
+- Optional: Any other information about the subject of the tutorial. This could be links to the subject, information about the subject, etc. Put this content is a separate `<div>`, or in an `<aside>`. 
+
+### II-B. index.html
+
+- **index.html** which will be the *landing page*. It matches the other page's design and navigation, and tells us the following:
+  - Why this topic is worth knowing and why you chose it
   - Cite the sources of all information, tutorials, images and other media used
+  
+### II-C. ???.html 
 - You are, of course, free to add additional pages as they make sense within the context of your tutorial.
 
 
-## II. Requirements
-Location: The page will be located in the project1 directory in your 230 directory on Banjo. This means that the location of page on the web will be **`http://people.rit.edu/abc1234/230/project1/`** (where 'abc1234' is your RIT id), as shown below:
+## III. Techical Requirements
+Location: The pages will be named as above and be located in the `project1` directory in your `230` directory on Banjo. This means that the location of page on the web will be **`http://people.rit.edu/abc1234/230/project1/`** (where 'abc1234' is your RIT id), as shown below:
 
 ![Structure](images/Project1Structure.png)
 
 Your main page for the tutorial will be the index page for this directory. You must have css and media directories to store the associated files. **Remember**: Our server is case sensitive, so your files **must** use the case indicated in this assignment. If your files are not named and located as instructed, we can't find them, and you will get a 0. 
 
-### II-A. Content and Structure
-Content is the foundation of the Web; all pages exist to present some content, not the other way round. For this reason, your content needs to be written **first**. Your primary content is a *game design treatment* containing most or all of the information found on this template: http://igm.rit.edu/~acjvks/courses/2017-fall/590-ios-game/html/project-1-proposal.html
 
-
-### II-B. Required Pages 
-- The following pages (each in separate HTML files):
-  - **index.html**: your "landing" page (the default file for your project1 directory):
-    - This page must have a brief overview of your project, contain at least one image, and most importantly grab the user's attention.
-  - **proposal.html**: what you plan to do, in more detail than the overview:
-    - This page will be a game design document, specifically a *game treatment* that describes the development side of your game. This page is not a marketing document.
-    - You should be hitting most or all of the things on this template: http://igm.rit.edu/~acjvks/courses/2017-fall/590-ios-game/html/project-1-proposal.html - you can also read more about game treatments here: http://thelegendofjohnny.com/tutorials/game-treatment
-    - This page will be marked up heavily with structural and semantic tags, some of which are listed below.
-    - This page will contain at least two images.
-  
-  - **documentation.html**: A documentation page, which will document your overall process, resources used, and notes about this current assignment. Cite the sources of all information, tutorials, images and other media used. Also indicate how you met the project requirements, and any additional specifics you want me to see.
-  - **project.html**: The game or app itself (the content will just be a placeholder for now, but the page needs to have the same look and navigation as the other pages)
   
 ### II-C. HTML/CSS Markup
 -	Structural tags like `<header>`, `<section>`, `<article>`, `<nav>`, and `<footer>` should be used appropriately.
