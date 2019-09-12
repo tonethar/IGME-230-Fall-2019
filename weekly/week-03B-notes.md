@@ -3,6 +3,9 @@
 ## I. Topics & Overview
 - [Project 1](../projects/project-1.md) requirements posted:
   - there is a myCourses discussion thread to post your idea
+- LWD chapters 11-14 have been assigned:
+  - there are active "Study Quizzes" in mycourses for you to take. These can be taken as many times as you want - and they are all open for at least a week
+  - IMPORTANT: These are open book,  but you need to work solo on them, and not with any outside help. Making these quizzes a group effort or just giving the answers to a friend will end up hurting people in the near term because they won't know the material
 - Review of `.htaccess` Authentication
 - Finish LWD Chapter 5 - *Marking Up Text* slides
 - LWD Chapter 6 - *Adding Links*
