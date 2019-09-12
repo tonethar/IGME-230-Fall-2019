@@ -6,7 +6,7 @@
 
 ## Contents
 
-[I. Overview](#overview)
+I. [Overview](#overview)
 
 II. [Required Content](#requiredcontent)
 
@@ -116,13 +116,13 @@ The HTML & CSS of all pages must be structurally correct & *validate* to current
 
 ![Structure](images/Project1Structure.png)
 
-<a id="submission requirements"></a>
+<a id="submissionrequirements"></a>
 
 ## VIII. Submission Requirements
 
 - See myCourses for submission instructions including where to post your link
 
-<a id="next steps"></a>
+<a id="nextsteps"></a>
 
 ## IX. Next Steps
 
