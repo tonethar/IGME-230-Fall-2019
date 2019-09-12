@@ -1,7 +1,8 @@
 # Week 3B - Review of CSS
 
 ## I. Topics & Overview
-- [Project 1](../projects/project-1.md) Announcement
+- [Project 1](../projects/project-1.md) requirements posted:
+  - there is a myCourses discussion thread to post your idea
 - Review of `.htaccess` Authentication
 - Finish LWD Chapter 5 - *Marking Up Text* slides
 - LWD Chapter 6 - *Adding Links*
