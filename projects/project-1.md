@@ -54,7 +54,7 @@ The main page of the tutorial is named **tutorial.html** and it has the followin
 
 - The pages will be named as above and be located in the `project1` directory in your `230` directory on Banjo. This means that the location of page on the web will be **`http://people.rit.edu/abc1234/230/project1/`** (where 'abc1234' is your RIT id), as shown below
 - Your **index.html** will be the default page for this directory
-- You must have css and media directories to store the associated files
+- You must have `css` and `media` directories to store the associated style and image files
 
 ![Structure](images/Project1Structure.png)
 
