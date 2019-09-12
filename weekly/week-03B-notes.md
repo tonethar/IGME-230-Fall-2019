@@ -23,6 +23,8 @@
 
 **unix-not-so-semantic.html**
 
+- what elements should we have used instead?
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -83,6 +85,8 @@
 ```
 
 **unix-semantic.html**
+
+- better - but there's atill an issue, can you see it?
 
 ```html
 <!DOCTYPE html>
