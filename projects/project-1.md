@@ -105,7 +105,7 @@ The HTML & CSS of all pages must be structurally correct & *validate* to current
 ### V-C. Other
 - all file names:
   - must begin with a *lowercase* letter
-  - must NOT have spaces in them. If you really feek a space makes the name more legible, then use a dash instead `-`
+  - must NOT have spaces in them. If you really feek a space makes the name more legible, then use a dash (`-`) instead 
 
 <a id="design"></a>
 
