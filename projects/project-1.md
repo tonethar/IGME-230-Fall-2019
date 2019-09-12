@@ -1,4 +1,7 @@
-# Project 1 - Tutorial Web Site
+# Project 1 - Tutorial Web Site - Deliverable A
+
+***Note: The requirements for this deliverable are the basic layout and content - we will do most of the styling and responsiveness later.***
+
 ## I. Overview
 - You are going to be building a responsive (mobile/tablet/desktop friendly) content-driven web site.
 - The content will be a *tutorial* of your creation. Here's wikipedia's definition - ***A tutorial is a method of transferring knowledge and may be used as a part of a learning process. More interactive and specific than a book or a lecture, a tutorial seeks to teach by example and supply the information to complete a certain task.***
@@ -34,7 +37,10 @@ The main page of the tutorial is named **tutorial.html** and it has the followin
 
 
 ## III. Techical Requirements
-Location: The pages will be named as above and be located in the `project1` directory in your `230` directory on Banjo. This means that the location of page on the web will be **`http://people.rit.edu/abc1234/230/project1/`** (where 'abc1234' is your RIT id), as shown below:
+
+### III-A. Location of pages 
+
+- The pages will be named as above and be located in the `project1` directory in your `230` directory on Banjo. This means that the location of page on the web will be **`http://people.rit.edu/abc1234/230/project1/`** (where 'abc1234' is your RIT id), as shown below:
 
 ![Structure](images/Project1Structure.png)
 
