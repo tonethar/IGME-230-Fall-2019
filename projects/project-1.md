@@ -47,15 +47,15 @@ The main page of the tutorial is named **tutorial.html** and it has the followin
 
 ## IV. CSS
 -	CSS selectors and rules will be used for text formatting: 
-  - Most of the style rules will be located in an external style sheet.
-  -	There will be at least 5 style declarations (rules) in your external style sheet. 
-  - Avoid using *inline* styles.
+  - Most of the style rules will be located in an **external style sheet**
+  -	There will be at least 5 style declarations (rules) in your **external style sheet**
+  - Avoid using **inline styles**
   
 ## V. Other Requirements
 
 ### V-A. Navigation
 - you need two *navigation systems*:
-  - a *global* navigation system - this system will be present on both **index.html** and **tutorial.html** (as well as any other optional pages you have added)
+  - a *global* navigation system - this system will be present on both **index.html** and **tutorial.html** (as well as any other optional pages you have added) - these systems are usually located at the top of a page - and in the same location on both pages
   - a *local* navigation system on **tutorial.html**:
     - this system will make it easy for the user to "jump" to various steps of the tutrorial easily
     - see the "Content" navigation element on this wikipedia page for an example: https://en.wikipedia.org/wiki/Slime_mold
@@ -81,6 +81,15 @@ The HTML & CSS of all pages must be structurally correct & *validate* to current
 ## VIII. Submission Requirements
 
 - See myCourses for submission instructions including where to post your link
+
+
+## IX. Next Steps
+
+The will be a "Deliverable B" for this project so keep working on it even after you have submitted it, and we will be grading the version of this site that you submitted to the dropbox:
+
+- keep improving the content and its organization & layout
+- utilize a custom font for this site - see https://fonts.google.com
+- we WILL be requiring a responsive layout, that uses CSS Flexbox and/or CSS Grid. This is covered in LWD chapters 16 & 17
 
 
 
