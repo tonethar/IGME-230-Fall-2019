@@ -22,7 +22,7 @@
 ### II-A. tutorial.html
 The main page of the tutorial is named **tutorial.html** and it has the following content:
 
-- The title of what the tutorial is for.
+- A title that indicates the subject of the tutorial
 - A brief description of the tutorial (the subject, and what the user will get out of it)
 - At least 6 steps in the tutorial, containing a total of at least 500 words
 - Images for the tutorial steps:
