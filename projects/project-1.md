@@ -25,7 +25,7 @@ VIII. [Submission Requirements](#submissionrequirements)
 IX. [Next Steps](#nextsteps)
 
 
-</hr>
+<hr>
 
 <a id="overview"></a>
   
