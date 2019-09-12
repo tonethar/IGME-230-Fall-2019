@@ -34,7 +34,7 @@ IX. [Next Steps](#nextsteps)
 - The content will be a *tutorial* of your creation. Here's wikipedia's definition - ***A tutorial is a method of transferring knowledge and may be used as a part of a learning process. More interactive and specific than a book or a lecture, a tutorial seeks to teach by example and supply the information to complete a certain task.***
 - the *subject* of the tutorial could be anything that is SFW, but also try to make it something that you are personally invested in:
   - you are already accomplished at the subject of the tutorial, thus you are a natural teacher of the subject **OR**
-  - it is a subject that you would like to get better at, thus you are going to get learn more about the subject, then teach it to others
+  - it is a subject that you would like to get better at, thus you are going to make the effort to learn more about the subject, then teach it to others
   - the subject of the tutorial must not be trivial - ex, *"How to boil tap water"*
 - This will be a text-based tutorial - no video or audio - sorry
 - This is a SOLO project
