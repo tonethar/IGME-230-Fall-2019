@@ -9,6 +9,7 @@
   - you are already accomplished at the subject of the tutorial, thus you are a natural teacher of the subject **OR**
   - it is a subject that you would like to get better at, thus you are going to get good at the subject, then teach it to others
 - This will be a text-based tutorial - no video or audio - sorry
+- This is a SOLO project
 - Examples (from the web):
   - https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios
   - https://jerryjenkins.com/how-to-write-a-book/
