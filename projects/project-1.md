@@ -13,6 +13,7 @@
 - This is a SOLO project
 - Examples (from the web):
   - https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios
+  - https://www.photoshoptutorials.ws/photoshop-tutorials/photo-manipulation/create-magnificent-sniper-artwork-photoshop/
   - https://jerryjenkins.com/how-to-write-a-book/
   - https://houseofyumm.com/barbacoa/
 
