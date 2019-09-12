@@ -8,7 +8,7 @@
 - the *subject* of the tutorial could be anything that is SFW, but also try to make it something that you are personally invested in:
   - you are already accomplished at the subject of the tutorial, thus you are a natural teacher of the subject **OR**
   - it is a subject that you would like to get better at, thus you are going to get learn more about the subject, then teach it to others
-  - the subjext ofthe tutorial must not be trivial - ex, *"How to boil tap water**
+  - the subject of the tutorial must not be trivial - ex, *"How to boil tap water**
 - This will be a text-based tutorial - no video or audio - sorry
 - This is a SOLO project
 - Examples (from the web):
