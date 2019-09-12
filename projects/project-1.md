@@ -93,6 +93,7 @@ The main page of the tutorial is named **tutorial.html** and it has the followin
   - a *local* navigation system on **tutorial.html**:
     - this system will make it easy for the user to "jump" to various steps of the tutrorial easily
     - see the "Content" navigation element on this wikipedia page for an example: https://en.wikipedia.org/wiki/Slime_mold
+    - also see the "Content" navigation menu on the top of this page
     - this is accomplished with HTML *fragments*
     - for a working example, see "Linking to a Specific Point in a Page" in LWD chapter 6 
     
