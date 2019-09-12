@@ -127,7 +127,7 @@ The HTML & CSS of all pages must be structurally correct & *validate* to current
 
 ## IX. Next Steps
 
-The will be a "Deliverable B" for this project so keep working on it even after you have submitted it, and we will be grading the version of this site that you submitted to the dropbox:
+There will be a "Deliverable B" for this project so keep working on it even after you have submitted it, and we will be grading the version of this site that you submitted to the dropbox:
 
 - keep improving the *content*
 - keep improving the *organization & layout*
