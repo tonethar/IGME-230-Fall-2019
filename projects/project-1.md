@@ -1,6 +1,6 @@
 # Project 1 - Tutorial Site - DRAFT
 ## I. Overview
-...
+- You are going to be building a responsive mobile friendly web site.
 
 ## II. Required Content
 
