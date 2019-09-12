@@ -38,6 +38,7 @@ The main page of the tutorial is named **tutorial.html** and it has the followin
   
 ## III. HTML Markup
 -	Structural tags like `<header>`, `<section>`, `<article>`, `<nav>`, and `<footer>` should be used appropriately.
+- Inline text marked up as appropriate
 - Try to use a consistent structure on all of your pages by repeating many of your design elements - for example: the `<header>`, `<footer>` and `<nav>` elements should be in the same places on each page and have the same colors, fonts and spacing.
 - You must have descriptive `<title>` elements for each page.
 
