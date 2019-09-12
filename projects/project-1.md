@@ -95,7 +95,7 @@ The main page of the tutorial is named **tutorial.html** and it has the followin
     - see the "Content" navigation element on this wikipedia page for an example: https://en.wikipedia.org/wiki/Slime_mold
     - also see the "Content" navigation menu on the top of this page
     - this is accomplished with HTML *fragments*
-    - for a working example, see "Linking to a Specific Point in a Page" in LWD chapter 6 
+    - for a working example, see "Linking to a Specific Point in a Page" in *LWD* chapter 6 
     
 ### V-B. Validation
 The HTML & CSS of all pages must be structurally correct & *validate* to current standards:
@@ -134,8 +134,8 @@ There will be a "Deliverable B" for this project so keep working on it even afte
 - keep improving the *design*
 - utilize a *custom font* for this site - see https://fonts.google.com
 - we WILL be requiring a *responsive layout*, that uses CSS Flexbox and/or CSS Grid:
-  - CSS Flexbox/CSS Grid are covered in LWD chapter 16
-  -  media queries and other responsive techniques are covered in LWD chapter 17
+  - CSS Flexbox/CSS Grid are covered in *LWD* chapter 16
+  -  media queries and other responsive techniques are covered in *LWD* chapter 17
 
 
 
