@@ -1,17 +1,26 @@
-# Project 1 - Tutorial Site - DRAFT
+# Project 1 - Tutorial Web Site
 ## I. Overview
-- You are going to be building a responsive mobile friendly web site.
+- You are going to be building a responsive (mobile/tablet/desktop friendly) content-driven web site.
+- The content will be a *tutorial* - of your creation. Here's wikipedia's definition - *A tutorial is a method of transferring knowledge and may be used as a part of a learning process. More interactive and specific than a book or a lecture, a tutorial seeks to teach by example and supply the information to complete a certain task.*
+- the subject of the tutorial could be anything, but try to make it something that you are personally invested in:
+  - you are already accomplished at the subject of the tutorial, thus you are a natural teacher of the subject OR
+  - it is a subject that you would like to get better at, thus you are going to get good at the subject, then teach it to others
+  - This will be a text-based tutorial - no video or audio - sorry
+  - Examples (from the web):
+    - https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios
+    - https://jerryjenkins.com/how-to-write-a-book/
+    - https://houseofyumm.com/barbacoa/
 
-## II. Required Content
+## II. Required Content in Final Version
 
+- the main page of the tutorial is named **tutorial.html**
 - The title of what the tutorial is for.
-- A Brief description of the tutorial.
-- At least 6 steps in the tutorial, spread over at least 2 pages.
-- Recognizable images for the tutorial steps:
+- A brief description of the tutorial (the subject, and what the user will get out of it)
+- At least 6 steps in the tutorial, containing a total of at least 500 words
+- Images for the tutorial steps:
   - Images must be in a web friendly image format (gif, jpg, or png) AND of appropriate resolution for the web.
-- Brief instructions for each step.
-- Optional: Any other information about the item the tutorial is for. This could be links to the item, information about the item, etc. Put this content is a separate <div>, or in an <aside>. 
-- At least one other page, matching your main page's design and navigation, that tells me the following:
+- Optional: Any other information about the item the tutorial is for. This could be links to the item, information about the item, etc. Put this content is a separate `<div>`, or in an `<aside>`. 
+- At least one other page, named **index.html** which will be the *landing page*. It matches your main page's design and navigation, and tells us the following:
   - Why you chose this topic
   - How you went above and beyond the base requirements and anything special you want me to see that might not be immediately obvious
   - How you could have improved
