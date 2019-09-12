@@ -7,7 +7,7 @@
 |-------------|---------------|---------------------------------------------------------------------|---------|
 | 1           | Aug 26        | [How the course works, how the web works](#week1)                   |         |
 | 2           | Sep 2         | [Command-line UNIX & .htaccess files](#week2)                              |  Sep 2: Labor Day       |
-| 3           | Sep 09        | [Review of HTML/CSS](#week3)                       |         |
+| 3           | Sep 09        | [Review of HTML](#week3)                       |         |
 | 4           | Sep 16        | [CSS Layout Tools & Page Design Principles](#week4)                 |         |
 | 5           | Sep 23        | [Extra Bells & Whistles, Advanced Tools, and putting it all together](#week5) | Sep 25-26: Career Fair        |
 | 6           | Sep 30        | [Server-side Programming - PHP: Hypertext Preprocessor](#week6)     |         |
@@ -37,10 +37,10 @@ This week we will discuss the [Apache](http://httpd.apache.org) web server that 
  
  - [Week 2 - Command-line UNIX & .htaccess files](weekly/week-02-notes.md)
 
-## <a id="week3">Week 3 : Review of HTML/CSS
+## <a id="week3">Week 3 : Review of HTML
   
   - [Week 3A - Review of HTML](weekly/week-03A-notes.md)
-  - [Week 3B - Review of CSS](weekly/week-03B-notes.md)
+  - [Week 3B - More CSS](weekly/week-03B-notes.md)
   
 ## <a id="week4">Week 4 : CSS Layout Tools & Page Design Principles
   
