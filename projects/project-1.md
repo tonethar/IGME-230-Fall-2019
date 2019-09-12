@@ -49,11 +49,22 @@ The main page of the tutorial is named **tutorial.html** and it has the followin
   - Most of the style rules will be located in an external style sheet.
   -	There will be at least 5 style declarations (rules) in your external style sheet. 
   - Avoid using *inline* styles.
+  
+## V. Other Requirements
 
-## V. Design
+### V-A. Navigation
+- you need two *navigation systems*:
+  - a *global* navigation system - this system will be present on both **index.html** and **tutorial.html** (as well as any other optional pages you have added)
+  - a *local* navigation system on **tutorial.html**:
+    - this system will make it easy for the user to "jump" to various steps of the tutrorial easily
+    - see the "Content" navigation element on this wikipedia page for an example: https://en.wikipedia.org/wiki/Slime_mold
+    - this is accomplished with HTML *fragments*
+    - for a working example, see "Linking to a Specific Point in a Page" in LWD chapter 6 
+
+## VI. Design
 - College-level work - do the best work you can within the time allotted
 
-## VI. Location of pages 
+## VII. Location of pages 
 
 - The pages will be named as above and be located in the `project1` directory in your `230` directory on Banjo. This means that the location of page on the web will be **`http://people.rit.edu/abc1234/230/project1/`** (where 'abc1234' is your RIT id), as shown below
 - Your **index.html** will be the default page for this directory
@@ -61,7 +72,7 @@ The main page of the tutorial is named **tutorial.html** and it has the followin
 
 ![Structure](images/Project1Structure.png)
 
-## VII. Submission Requirements
+## VIII. Submission Requirements
 
 - See myCourses for submission instructions including where to post your link
 
