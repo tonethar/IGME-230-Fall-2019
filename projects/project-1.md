@@ -135,7 +135,7 @@ There will be a "Deliverable B" for this project so keep working on it even afte
 - utilize a *custom font* for this site - see https://fonts.google.com
 - we WILL be requiring a *responsive layout*, that uses CSS Flexbox and/or CSS Grid:
   - CSS Flexbox/CSS Grid are covered in *LWD* chapter 16
-  -  media queries and other responsive techniques are covered in *LWD* chapter 17
+  - media queries and other responsive techniques are covered in *LWD* chapter 17
 
 
 
