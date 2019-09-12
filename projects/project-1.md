@@ -4,23 +4,25 @@
 
 <hr>
 
+## Contents
+
 [I. Overview](#overview)
 
 II. [Required Content](#requiredcontent)
 
-III. HTML Markup
+III. [HTML Markup](#htmlmarkup)
 
-IV. CSS
+IV. [CSS](#css)
 
-V. Other Requirements
+V. [Other Requirements](#otherrequirements)
 
-VI. Design
+VI. [Design](#design)
 
-VII. Location of pages
+VII. [Location of pages](#locationofpages)
 
-VIII. Submission Requirements
+VIII. [Submission Requirements](#submissionrequirements)
 
-IX. Next Steps
+IX. [Next Steps](#nextsteps)
 
 
 </hr>
