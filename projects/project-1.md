@@ -129,9 +129,11 @@ The HTML & CSS of all pages must be structurally correct & *validate* to current
 
 The will be a "Deliverable B" for this project so keep working on it even after you have submitted it, and we will be grading the version of this site that you submitted to the dropbox:
 
-- keep improving the content and its organization & layout
-- utilize a custom font for this site - see https://fonts.google.com
-- we WILL be requiring a responsive layout, that uses CSS Flexbox and/or CSS Grid. This is covered in LWD chapters 16 & 17
+- keep improving the *content*
+- keep improving the *organization & layout*
+- keep improving the *design*
+- utilize a *custom font* for this site - see https://fonts.google.com
+- we WILL be requiring a *responsive layout*, that uses CSS Flexbox and/or CSS Grid. This is covered in LWD chapters 16 & 17
 
 
 
