@@ -2,6 +2,31 @@
 
 ***Note: The requirements for this deliverable are the basic layout and content - we will do most of the styling and responsiveness later.***
 
+<hr>
+
+[I. Overview](#overview)
+
+II. [Required Content](#requiredcontent)
+
+III. HTML Markup
+
+IV. CSS
+
+V. Other Requirements
+
+VI. Design
+
+VII. Location of pages
+
+VIII. Submission Requirements
+
+IX. Next Steps
+
+
+</hr>
+
+<a id="overview"></a>
+  
 ## I. Overview
 - You are going to be building a responsive (mobile/tablet/desktop friendly) content-driven web site.
 - The content will be a *tutorial* of your creation. Here's wikipedia's definition - ***A tutorial is a method of transferring knowledge and may be used as a part of a learning process. More interactive and specific than a book or a lecture, a tutorial seeks to teach by example and supply the information to complete a certain task.***
@@ -16,6 +41,8 @@
   - https://www.photoshoptutorials.ws/photoshop-tutorials/photo-manipulation/create-magnificent-sniper-artwork-photoshop/
   - https://jerryjenkins.com/how-to-write-a-book/
   - https://houseofyumm.com/barbacoa/
+
+<a id="requiredcontent"></a>
 
 ## II. Required Content
 
@@ -38,6 +65,7 @@ The main page of the tutorial is named **tutorial.html** and it has the followin
 ### II-C. ???.html 
 - You are, of course, free to add additional pages as they make sense within the context of your tutorial.
 
+<a id="htmlmarkup"></a>
   
 ## III. HTML Markup
 -	Structural tags like `<header>`, `<section>`, `<article>`, `<nav>`, and `<footer>` should be used appropriately.
@@ -45,12 +73,16 @@ The main page of the tutorial is named **tutorial.html** and it has the followin
 - Try to use a consistent structure on all of your pages by repeating many of your design elements - for example: the `<header>`, `<footer>` and `<nav>` elements should be in the same places on each page and have the same colors, fonts and spacing.
 - You must have descriptive `<title>` elements for each page.
 
+<a id="css"></a>
+
 ## IV. CSS
 -	CSS selectors and rules will be used for text formatting: 
   - Most of the style rules will be located in an **external style sheet**
   -	There will be at least 5 style declarations (rules) in your **external style sheet**
   - Avoid using **inline styles**
-  
+
+<a id="otherrequirements"></a>
+
 ## V. Other Requirements
 
 ### V-A. Navigation
@@ -67,8 +99,12 @@ The HTML & CSS of all pages must be structurally correct & *validate* to current
 - https://validator.w3.org
 - https://jigsaw.w3.org/css-validator/
 
+<a id="design"></a>
+
 ## VI. Design
 - College-level work - do the best work you can within the time allotted
+
+<a id="locationofpages"></a>
 
 ## VII. Location of pages 
 
@@ -78,10 +114,13 @@ The HTML & CSS of all pages must be structurally correct & *validate* to current
 
 ![Structure](images/Project1Structure.png)
 
+<a id="submission requirements"></a>
+
 ## VIII. Submission Requirements
 
 - See myCourses for submission instructions including where to post your link
 
+<a id="next steps"></a>
 
 ## IX. Next Steps
 
