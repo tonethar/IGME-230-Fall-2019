@@ -40,7 +40,7 @@ This week we will discuss the [Apache](http://httpd.apache.org) web server that 
 ## <a id="week3">Week 3 : Review of HTML
   
   - [Week 3A - Review of HTML](weekly/week-03A-notes.md)
-  - [Week 3B - More CSS](weekly/week-03B-notes.md)
+  - [Week 3B - More HTML](weekly/week-03B-notes.md)
   
 ## <a id="week4">Week 4 : CSS Layout Tools & Page Design Principles
   
