@@ -86,7 +86,8 @@
 
 **unix-semantic.html**
 
-- better - but there's still an issue, can you see it?
+- better - which elements were used instead?
+- but there's still an issue, can you see it?
 - let's style the page a little too
 
 ```html
