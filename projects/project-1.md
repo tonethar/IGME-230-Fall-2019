@@ -36,21 +36,21 @@ The main page of the tutorial is named **tutorial.html** and it has the followin
 - You are, of course, free to add additional pages as they make sense within the context of your tutorial.
 
   
-### III. HTML Markup
+## III. HTML Markup
 -	Structural tags like `<header>`, `<section>`, `<article>`, `<nav>`, and `<footer>` should be used appropriately.
 - Try to use a consistent structure on all of your pages by repeating many of your design elements - for example: the `<header>`, `<footer>` and `<nav>` elements should be in the same places on each page and have the same colors, fonts and spacing.
 - You must have descriptive `<title>` elements for each page.
 
-### IV. CSS
+## IV. CSS
 -	CSS selectors and rules will be used for text formatting: 
   - Most of the style rules will be located in an external style sheet.
   -	There will be at least 5 style declarations (rules) in your external style sheet. 
   - Avoid using *inline* styles.
 
-### V. Design
+## V. Design
 - College-level work - do the best work you can within the time allotted
 
-### VI. Location of pages 
+## VI. Location of pages 
 
 - The pages will be named as above and be located in the `project1` directory in your `230` directory on Banjo. This means that the location of page on the web will be **`http://people.rit.edu/abc1234/230/project1/`** (where 'abc1234' is your RIT id), as shown below
 - Your **index.html** will be the default page for this directory
