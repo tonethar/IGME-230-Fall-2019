@@ -1,4 +1,4 @@
-# Week 4A - Basic CSS Layouts
+# Week 4A - Intro to CSS
 
 ## I. Topics & Overview
 - Any questions about [Project 1](../projects/project-1.md)?
