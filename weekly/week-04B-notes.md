@@ -1,7 +1,5 @@
-# Week 4B - Responsive Design and Media Queries
+# Week 4B - More CSS
 
-## I. Topics & Overview
-- Any questions about [Project 1](../projects/project-1.md)?
 - Reminder: Subject of tutorial due right after class ends today
 - Finish up HTML:
   - *LWD* Chapter 7 - *Adding Images*
