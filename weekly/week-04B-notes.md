@@ -1,31 +1,11 @@
 # Week 4B - More CSS
 
-- Reminder: Subject of tutorial due right after class ends today
-- Finish up HTML:
-  - *LWD* Chapter 7 - *Adding Images*
-    - Web image formats
-    - The img element
-    - Attributes for the img element
-    - Adding an SVG to a page
-  - *LWD* Chapter 23 - *Web Image Basics*
-    - Where to get images
-    - PNG, JPEG, GIF, and WebP
-    - Image and screen resolution
-    - Web image production strategy
-    - Favicon
- - *LWD* Chapter 11 - *Intro to CSS*
-   - The benefits of CSS
-   - Understanding document structure
-   - Writing style rules
-   - Attaching styles to the HTML document
-   - Inheritance
-   - The cascade
-   - The box model
-   - CSS units of measurement
-   
- ## II. Demo
+- *LWD* Chapter 12 - *Formatting Text*
+
+## II. Demo
  
- ## III. Reference
+ 
+## III. Reference
 
 <hr><hr>
 
