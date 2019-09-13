@@ -15,15 +15,16 @@
     - Image and screen resolution
     - Web image production strategy
     - Favicon
- - *LWD* Chapter 11 - *Intro to CSS*
-   - The benefits of CSS
-   - Understanding document structure
-   - Writing style rules
-   - Attaching styles to the HTML document
-   - Inheritance
-   - The cascade
-   - The box model
-   - CSS units of measurement
+ - Cascading Style Sheets (CSS)
+   - *LWD* Chapter 11 - *Intro to CSS*
+     - The benefits of CSS
+     - Understanding document structure
+     - Writing style rules
+     - Attaching styles to the HTML document
+     - Inheritance
+     - The cascade
+     - The box model
+     - CSS units of measurement
    
  ## II. Demo
  
