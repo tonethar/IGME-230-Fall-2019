@@ -5,7 +5,7 @@
   - Reminder: Subject of tutorial due right after class ends today
   - let's take a look at what our friends are posting to the discussion thread
 - Reminder: We're done with *Study Guides* for now, but ..
-  - we have *Study Quizzes* coming due soon - see myCourses
+  - we have *Study Quizzes* coming due soon! - See myCourses
   - Any questions on the Study Guides?
 - Finish up HTML:
   - *LWD* Chapter 7 - *Adding Images*
