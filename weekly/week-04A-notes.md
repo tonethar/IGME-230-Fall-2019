@@ -47,7 +47,7 @@
      - *class*
      - *universal*
    - Box Model:
-     - properties of box: border, margin, padding, backgrounds
+     - properties of box: `margin`, `padding`, `border`, `background`
      
  ## III. Homework Assignment
  
