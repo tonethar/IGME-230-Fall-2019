@@ -2,7 +2,7 @@
 
 ## I. Topics & Overview
 - Any questions about [Project 1](../projects/project-1.md)?
-- Reminder: Subject of tutorial due right after class ends today
+- Reminder: Subject of tutorial due right after class ends today - let's take a look at what our friends are posting
 - Finish up HTML:
   - *LWD* Chapter 7 - *Adding Images*
     - Web image formats
