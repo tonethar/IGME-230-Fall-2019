@@ -89,7 +89,7 @@
 
 - better - which elements were used instead?
 - but there's still an issue, can you see it?
-- let's style the page a little too
+- now let's style the page a little bit
 
 ```html
 <!DOCTYPE html>
