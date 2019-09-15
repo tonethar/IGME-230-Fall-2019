@@ -17,11 +17,13 @@
 
 
 ## II. Demo
- 
- 
-## III. Reference
 
-## IV. Other Relevant Resources
+
+## III. Homework Assignment
+ 
+## IV. Reference
+
+## V. Other Relevant Resources
 - [Marx](https://mblode.github.io/marx/) - Here's a possible stylesheet that you could add to your site that will improve the styling and general look of things simply by downloading it, adding it to your site structure, and linking to it as an external style sheet.
 - [Bootstrap "Reboot"](https://getbootstrap.com/docs/4.3/content/reboot/) - A similar concept.  Not the full Bootstrap framework, but rather a CSS file to give (in their words) "an elegant, consistent, and simple baseline to build upon".
 
