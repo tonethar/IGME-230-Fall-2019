@@ -39,9 +39,9 @@
      - *declaration block*
      - *property*
      - *value*
-   - discuss *inheritance* (how and which properties are passed down)
-   - discuss *cascade* (how conflicts are resolved - priority, specificity, rule order)
-   - Specifics *selectors*:
+   - discuss *inheritance* (how and which properties are *passed down*)
+   - discuss *cascade* (how conflicts are resolved - *priority*, *specificity*, *rule order*)
+   - Specific *selectors* (more to come in the near future!):
      - *type*
      - *id*
      - *class*
