@@ -6,7 +6,7 @@
 - *Learning Web Design* chapters 11-14 have been assigned:
   - there are active "Study Quizzes" in mycourses for you to take
   - the quizzes can be taken as many times as you want - and they are all open for at least a week
-  - **IMPORTANT**: These are open book,  but you need to work **SOLO** on them, and without any outside help. Making these quizzes a group effort or just giving the answers to a friend will end up hurting people in the near term because they won't know the material
+  - **IMPORTANT**: These are open book,  but you need to work **SOLO** on them, and without any outside help. Making these quizzes a group effort or just giving the answers to a friend will end up hurting people in the near term because they won't know the material when they attempt to work on the HW assignments and projects ...
 - Review of `.htaccess` Authentication
   - see this link for more options: https://www.rit.edu/webdev/people/htaccess
 - Semantic markup demo - see **Section II** below
