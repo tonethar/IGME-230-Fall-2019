@@ -2,7 +2,7 @@
 
 ## I. Topics & Overview
 - Any questions about [Project 1](../projects/project-1.md)?
-  - Reminder: Subject of tutorial due right after class ends today
+  - Reminder: Subject of tutorial is due Thursday start of class
   - let's take a look at what our friends are posting to the discussion thread
 - Reminder: We're done with *Study Guides* for now, but ..
   - we have *Study Quizzes* coming due soon! - See myCourses
