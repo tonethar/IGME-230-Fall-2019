@@ -51,7 +51,7 @@
      - properties of box: `margin`, `padding`, `border`, `background`
      
  ## III. Homework Assignment
- - [Holmes Part I](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/holmes-part-1.md)
+ - [Holmes Part I](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/holmes-part-1.md) & [Holmes Part II](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/holmes-part-2.md)
      
  ## IV. Reference
 
