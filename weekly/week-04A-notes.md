@@ -25,6 +25,7 @@
      - Understanding document structure
      - Writing style rules
      - Attaching styles to the HTML document
+       - `<link rel = "stylesheet" type = "text/css" href = "my-styles.css" />`
      - Inheritance
      - The cascade
      - The box model
