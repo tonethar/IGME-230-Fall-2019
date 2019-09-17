@@ -50,9 +50,9 @@
      - properties of box: `margin`, `padding`, `border`, `background`
      
  ## III. Homework Assignment
- 
+ - [Holmes Part I](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/holmes-part-1.md)
      
- ## III. Reference
+ ## IV. Reference
 
 <hr><hr>
 
