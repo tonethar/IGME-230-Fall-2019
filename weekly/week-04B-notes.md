@@ -1,5 +1,8 @@
 # Week 4B - More CSS
 
+- Any questions about [Project 1](../projects/project-1.md)?
+  - Reminder: Subject of tutorial is due today at 5:30
+  - let's take a look at what our friends have postted to the discussion thread
 - *LWD* Chapter 12 - *Formatting Text*
   - Font-related properties
   - Text line settings
