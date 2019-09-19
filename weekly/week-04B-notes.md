@@ -13,8 +13,15 @@
 ## II. Demo
 - increase `font-size` `rem` on `<body>` using CSS
   - demo this using JavaScript
-- *descendant* selectors
-  - `h1 em {color: red;}`
+- Selectors - we've already seen *type*, *class*, *id*, *universal*, and *grouped* selectors - here are some more:
+  - *descendant* selector (ex. kids, grandkids, great grandkids, ...)
+    - `h1 em {color: red;}`
+  - *child* selector (ex. just the kids)
+    - `p > em {font-weight: bold;}`
+  - *next-sibling* selector (ex. the next sibling element in the HTML source)
+    - `h1 + p {font-style: italic;}`
+  - *subsequent-sibling* selector (ex. 
+    - `h1 ~ h2 {font-weight: normal;}`
 - Specificity - more *specific* selectors have more weight: 
   - *Inline* styles with the `style` attribute are more specific than
   - *ID* selectors, which are more specific than
@@ -27,6 +34,8 @@
 - [Holmes Part I](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/holmes-part-1.md) & [Holmes Part II](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/holmes-part-2.md)
  
 ## IV. Reference
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
+- https://drafts.csswg.org/selectors-3/
 
 ## V. Other Relevant Resources
 - [Marx](https://mblode.github.io/marx/) - Here's a possible stylesheet that you could add to your site that will improve the styling and general look of things simply by downloading it, adding it to your site structure, and linking to it as an external style sheet.
