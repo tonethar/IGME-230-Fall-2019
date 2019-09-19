@@ -13,7 +13,7 @@
 ## II. Demo
 - increase `font-size` `rem` on `<body>` using CSS
   - demo this using JavaScript
-- Selectors - we've already seen *type*, *class*, *id*, *universal*, and *grouped* selectors - here are some more:
+- Selectors - we've already seen *type*, *class*, *id*, *universal*, and *grouped* selectors - here are some *contextual* selectors:
   - *descendant* selector (ex. kids, grandkids, great grandkids, ...)
     - `h1 em {color: red;}`
   - *child* selector (ex. just the kids)
