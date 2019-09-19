@@ -1,12 +1,19 @@
 # Week 5A - CSS Wrapup
 
 ## Topics
-- Navigation
-- HTML lists
-- More CSS layout
-- Font embedding
-- CSS Animations
-- Standards
+- *LWD* Chapter 13 - *Colors & Backgrounds*
+  - CSS color names
+  - RGB and HSL color values
+  - Foreground and background colors
+  - Tiling background images
+  - More selectors and external style sheets
+- And
+  - Navigation
+  - HTML lists
+  - More CSS layout
+  - Font embedding
+  - CSS Animations
+  - Standards
 
 ## Web Fonts
 - What is the difference between serif and sans-serif fonts?
