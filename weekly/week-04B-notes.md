@@ -18,9 +18,9 @@
     - `h1 em {color: red;}`
   - *child* selector (ex. just the kids)
     - `p > em {font-weight: bold;}`
-  - *next-sibling* selector (ex. the next sibling element in the HTML source)
+  - *next-sibling* selector (ex. the NEXT sibling element in the HTML source)
     - `h1 + p {font-style: italic;}`
-  - *subsequent-sibling* selector (ex. 
+  - *subsequent-sibling* selector (ex. ANY sibling element in the HTML source)
     - `h1 ~ h2 {font-weight: normal;}`
 - Specificity - more *specific* selectors have more weight: 
   - *Inline* styles with the `style` attribute are more specific than
