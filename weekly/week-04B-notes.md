@@ -9,15 +9,18 @@
   - Various text effects
   - List style properties
   - ID, class, and descendent selectors
-  - Specificity
-
-
-
 
 ## II. Demo
 - increase `font-size` `rem` on `<body>` using CSS
-- demo this using JavaScript
-- `font-variant:small-caps`
+  - demo this using JavaScript
+- descendant selectors
+  - `h1 em {color: red;}`
+- Specificity - more *specific* selectors have more weight: 
+  - *Inline* styles with the `style` attribute are more specific than
+  - *ID* selectors, which are more specific than
+  - *Class* selectors, which are more specific than
+  - *Element* selectors
+
 
 ## III. Homework Assignment
 
