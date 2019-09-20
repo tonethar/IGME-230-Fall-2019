@@ -54,6 +54,8 @@
  - [Holmes Part I](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/holmes-part-1.md) & [Holmes Part II](https://github.com/tonethar/IGME-235-Shared/blob/master/notes/holmes-part-2.md)
      
  ## IV. Reference
+ - https://developer.mozilla.org/en-US/docs/Web/CSS
+ -  https://css-tricks.com/
 
 <hr><hr>
 
