@@ -1,6 +1,6 @@
 # Week 5A - More CSS
 
-## Topics
+## I. Topics
 - Look over "Holmes" Submissions
 - *LWD* Chapter 13 - *Colors & Backgrounds*
   - CSS color names
@@ -8,6 +8,9 @@
   - Foreground and background colors
   - Tiling background images
   - More selectors and external style sheets
+  
+## II. Resources
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
 
 <hr><hr>
 
