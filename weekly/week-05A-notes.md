@@ -1,6 +1,7 @@
 # Week 5A - More CSS
 
 ## Topics
+- Look over "Holmes" Submissions
 - *LWD* Chapter 13 - *Colors & Backgrounds*
   - CSS color names
   - RGB and HSL color values
