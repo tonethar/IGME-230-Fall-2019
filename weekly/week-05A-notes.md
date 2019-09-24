@@ -1,4 +1,4 @@
-# Week 5A - CSS Wrapup
+# Week 5A - More CSS
 
 ## Topics
 - *LWD* Chapter 13 - *Colors & Backgrounds*
