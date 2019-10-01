@@ -6,9 +6,7 @@
 
 ## II. The CSS Box Model
 
-- **We've already utilized much of the below in the "Holmes" exercise, but let's go ahead and make sure that we've hit all of the core concepts**
-
-
+- **We've already utilized much of the below in the "Holmes" exercise, but let's go ahead and make sure that we've hit all of the core concepts:**
   - Every element in a document (both block-level and inline) generates a rectangular element box
     - The amount of space taken up by an element includes the *content area*, plus the total amount of padding, borders, and margins applied to the element
     - the `width` and `height` of a block element are calculated automatically by the browser (the default `auto` value)
