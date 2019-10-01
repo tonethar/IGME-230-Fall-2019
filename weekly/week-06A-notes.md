@@ -62,8 +62,9 @@
 
 - Media queries apply different styles based on characteristics of the browser: its width, whether it is vertically or horizontally oriented, its resolution, and so on
 
+```css
 
-
+```
 
 <hr><hr> 
 
