@@ -6,9 +6,8 @@
 
 ## II. The CSS Box Model
 
-- We've already utilized much of the below in the "Holmes" exercise, but let's go ahead and make sure that we've hit all of the core concepts
+- **We've already utilized much of the below in the "Holmes" exercise, but let's go ahead and make sure that we've hit all of the core concepts**
 
-### II-A. Box Sizing
 
   - Every element in a document (both block-level and inline) generates a rectangular element box
     - The amount of space taken up by an element includes the *content area*, plus the total amount of padding, borders, and margins applied to the element
@@ -18,14 +17,14 @@
   - There are two ways to specify the size of an element:
     - `box-sizing: content-box` is the default method - it applies the `width` and `height` values to the *content box*. That means that the resulting size of the element will be the dimensions you specify plus the amount of padding and borders that have been added to the element. 
     - `box-sizing: border-box` is the other method - it applies the `width` and `height` values to the *border box*, which includes the content, padding, and border. *With this method, the resulting visible element box, including padding and borders (but not margins), will be exactly the dimensions you specify.*
-  - The parts of an element box
-  - Box dimensions
-  - Padding
-  - Borders
-  - Outlines
-  - Margins
-  - Display roles
-  - Drop shadows 
+  - `height` of a box - if an element is sized too small for its contents, you can specify what to do with the content that doesn’t fit by using the `overflow` property:
+    - possible values are `visible`,  `hidden`, `scroll` or `auto`
+  - `padding` is space between the content area and the border 
+  - `border` is drawn around the content area and the padding
+  - `margin` is space added on the outside of the border
+    - margins of adjacent elements (top and bottom) "collapse"
+  - `display` - `block`, `inline`, and `none` are the most commonlyn used
+  - `box-shadow` 
 
 
 
