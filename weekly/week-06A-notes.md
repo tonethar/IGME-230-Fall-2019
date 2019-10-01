@@ -6,9 +6,9 @@
 - ***Reminder: the midterm written exam is on Thursday 10/10/2019 - what's on it?***
   - LWD: Chapters 1-15 - the study guides & study quizzes will give you a good idea of the kind of questions that will be asked
   - everything we did (see notes) from Week 1A to Week 7A
-  - be able to write HTML fragments  - ex. *write HTML so that "red", "green", and "blue" displayed in an ordered list*
+  - be able to write HTML fragments  - ex. *write HTML so that "red", "green", and "blue" are displayed in an ordered list*
   - be able to write CSS rules - ex. *make all text contained in a &lt;div> of `id="advert"` green in color*
-  - don't forget about the stuff we did at the beginning of the course (the HTTP protocol, .htaccess files, Unix commands, etc)
+  - don't forget about the stuff we did at the beginning of the course (HTTP protocol, .htaccess files, Unix commands, etc)
 
 <hr>
 
