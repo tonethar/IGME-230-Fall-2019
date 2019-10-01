@@ -92,18 +92,34 @@
 }
 ```
 
-### III-D. Try it on the Holmes HW!
+- ***Based on the media queries above, any screen size between 480 and 1300 pixels will use whatever CSS the developer specified as the *default* styles for the site***
 
-- for the "phone styles":
-  - shrink margins
+<hr>
+
+### III-D. Try it on your Holmes HW files - this is Homework!
+
+<a id="homework"></a>
+
+- here are ideas for the "phone styles" (but do something else if you want):
+  - shrink the main page margins
   - enlarge and space out the buttons
   - give the "movie div" a background color to help it stand out
-- for the "wide screen styles":
-  - expand the margins
-  - shrink the buttons
+- here are ideas for the "wide screen styles" (but do something else if you want):
+  - expand the main page margins dramatically
+  - shrink the buttons 
   
+**Now add at least 2 more "breakpoints":**
+
+- look at the breakpoints specified on this page to get some ideas - https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp
+
+<hr>
+
+### III-E. Project 1 Final Version
+- for one of the requirements, you will need at least 3 CSS breakpoints - "small", "medium", and "large" - so get going on this if you have time!
+- PS: once we get into CSS Grid and Flexbox, then media queries become even more powerful as you can change the layout of your site based on the screen size of the user's device. We won't be covering them until AFTER project 1 is due, but optionally you may use CSS Grid and Flexbox on project 1 if you wish
 
 
+  
 <hr><hr> 
 
 | <-- Previous Unit | Home | Next Unit -->
