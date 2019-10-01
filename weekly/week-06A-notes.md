@@ -70,15 +70,39 @@
 ### III-C. CSS Media Queries
 
 - Media queries apply different styles based on characteristics of the browser: its width, whether it is vertically or horizontally oriented, its resolution, and so on
-- Here's a rule that onlu
+- Here's a rule that targets devices that have a width of 480 pixels *or less*: 
 
 ```css
+/* 	phone styles */
 @media screen and (max-width: 480px) {
  
 // CSS goes here
 
 }
 ```
+
+- Here's a rule that targets devices that have a width of 1300 pixels *or more*: 
+
+```css
+/* wide screen styles */
+@media screen and (min-width: 1300px){
+
+// CSS goes here
+
+}
+```
+
+### III-D. Try it on the Holmes HW!
+
+- for the "phone styles":
+  - shrink margins
+  - enlarge and space out the buttons
+  - give the "movie div" a background color to help it stand out
+- for the "wide screen styles":
+  - expand the margins
+  - shrink the buttons
+  
+
 
 <hr><hr> 
 
