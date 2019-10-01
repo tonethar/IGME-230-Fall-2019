@@ -30,7 +30,7 @@
   - `border:` is drawn around the content area and the padding
   - `margin:` is space added on the outside of the border
     - margins of adjacent elements (top and bottom) "collapse"
-  - `display:` - `block`, `inline`, and `none` are the most commonlyn used
+  - `display:` - `block`, `inline`, and `none` are the most commonly used
   - `box-shadow` 
 
 <hr>
