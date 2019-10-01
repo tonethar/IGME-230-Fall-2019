@@ -70,9 +70,14 @@
 ### III-C. CSS Media Queries
 
 - Media queries apply different styles based on characteristics of the browser: its width, whether it is vertically or horizontally oriented, its resolution, and so on
+- Here's a rule that onlu
 
 ```css
+@media screen and (max-width: 480px) {
+ 
+// CSS goes here
 
+}
 ```
 
 <hr><hr> 
