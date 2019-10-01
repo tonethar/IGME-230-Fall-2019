@@ -1,8 +1,8 @@
 # Week 6A - Media Queries
 
 ## I. Overview
-- Today we'll finish up LWD Chapter 14 ("Thinking Inside the Box")
-- And get started on media queries
+- Today we'll finish up LWD Chapter 14 - *Thinking Inside the Box*
+- And get started on media queries - see LWD Chapter 17 - *Responsive Design*
 
 ## II. The CSS Box Model
 
@@ -26,6 +26,9 @@
   - `box-shadow` 
 
 ## III. Responsive Design with Media Queries
+
+- For Project 1 - we are skipping past LWD chapters 15 & 16 for now - and focusing in on media queries from chapter 17
+
 
 
 
