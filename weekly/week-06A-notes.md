@@ -3,6 +3,12 @@
 ## I. Overview
 - Today we'll finish up LWD Chapter 14 - *Thinking Inside the Box*
 - And get started on media queries - see LWD Chapter 17 - *Responsive Design*
+- ***Reminder: the midterm written exam is on Thursday 10/10/2019 - what's on it?***
+  - LWD: Chapters 1-15 - the study guides & study quizzes will give you a good idea of the kind of questions that will be asked
+  - everything we did (see notes) from Week 1A to Week 7A
+  - be able to write HTML fragments  - ex. "red", "green", and "blue" displayed in an ordered list)
+  - be able to write CSS rules - ex. make all text contained in a &lt;div> of `id="advert"` green in color
+  - don't forget about the stuff we did at the beginning of the course (the HTTP protocol, .htaccess files, Unix commands, etc)
 
 ## II. The CSS Box Model
 
