@@ -1,4 +1,4 @@
-# Week 6A - Media Queries
+# Week 6A - Finish up Box Model / Media Queries
 
 ## I. Overview
 - Today we'll finish up LWD Chapter 14 - *Thinking Inside the Box*
