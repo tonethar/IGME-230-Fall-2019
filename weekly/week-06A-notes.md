@@ -110,6 +110,7 @@
   
 **Now add at least 2 more "breakpoints":**
 
+- add at least 2 style rules per breakpoint
 - look at the breakpoints specified on this page to get some ideas - https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp
 
 <hr>
