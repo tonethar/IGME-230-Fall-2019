@@ -16,24 +16,34 @@
 - **We've already utilized much of this chapter in the "Holmes" exercise, but let's go ahead and make sure that we've hit all of the core concepts:**
   - Every element in a document (both block-level and inline) generates a rectangular element box
     - The amount of space taken up by an element includes the *content area*, plus the total amount of padding, borders, and margins applied to the element
-    - the `width` and `height` of a block element are calculated automatically by the browser (the default `auto` value)
+    - the `width:` and `height:` of a block element are calculated automatically by the browser (the default `auto` value)
     - the box will be as wide as the browser window or other containing block element, and as tall as necessary to fit the content
-    - you can use the `width` and `height` properties to explicitly set the element to a specific width or height
+    - you can use the `width:` and `height:` properties to explicitly set the element to a specific width or height
   - There are two ways to specify the size of an element:
     - `box-sizing: content-box` is the default method - it applies the `width` and `height` values to the *content box*. That means that the resulting size of the element will be the dimensions you specify plus the amount of padding and borders that have been added to the element. 
     - `box-sizing: border-box` is the other method - it applies the `width` and `height` values to the *border box*, which includes the content, padding, and border. *With this method, the resulting visible element box, including padding and borders (but not margins), will be exactly the dimensions you specify.*
-  - `height` of a box - if an element is sized too small for its contents, you can specify what to do with the content that doesn’t fit by using the `overflow` property:
+  - `height:` of a box - if an element is sized too small for its contents, you can specify what to do with the content that doesn’t fit by using the `overflow` property:
     - possible values are `visible`,  `hidden`, `scroll` or `auto`
-  - `padding` is space between the content area and the border 
-  - `border` is drawn around the content area and the padding
-  - `margin` is space added on the outside of the border
+  - `padding:` is space between the content area and the border 
+  - `border:` is drawn around the content area and the padding
+  - `margin:` is space added on the outside of the border
     - margins of adjacent elements (top and bottom) "collapse"
-  - `display` - `block`, `inline`, and `none` are the most commonlyn used
+  - `display:` - `block`, `inline`, and `none` are the most commonlyn used
   - `box-shadow` 
 
 ## III. Responsive Design with Media Queries
 
 - For Project 1 - we are skipping past LWD chapters 15 & 16 for now - and focusing in on media queries from chapter 17
+- The slides cover this pretty well, so we'll go through those - but here's some HTML & CSS we'll need later:
+
+
+**The viewport &lt;meta> tag**
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale="1">
+```
+
+
 
 
 
