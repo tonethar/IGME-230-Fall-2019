@@ -96,9 +96,9 @@
 
 <hr>
 
-### III-D. Try it on your Holmes HW files - this is Homework!
-
 <a id="homework"></a>
+
+### III-D. Try it on your Holmes HW files - this is Homework!
 
 - here are ideas for the "phone styles" (but do something else if you want):
   - shrink the main page margins
