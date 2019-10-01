@@ -76,7 +76,7 @@
 /* 	phone styles */
 @media screen and (max-width: 480px) {
  
-// CSS goes here
+/* CSS goes here */
 
 }
 ```
@@ -87,7 +87,7 @@
 /* wide screen styles */
 @media screen and (min-width: 1300px){
 
-// CSS goes here
+/* CSS goes here */
 
 }
 ```
