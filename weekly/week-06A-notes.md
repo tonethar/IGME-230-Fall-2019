@@ -31,13 +31,20 @@
   - `display:` - `block`, `inline`, and `none` are the most commonlyn used
   - `box-shadow` 
 
-## III. Responsive Design with Media Queries
+## III. Demo - Responsive Design with Media Queries
 
 - For Project 1 - we are skipping past LWD chapters 15 & 16 for now - and focusing in on media queries from chapter 17
 - Today let's try some of this out in the Holmes HW
 - The slides cover this pretty well, so we'll go through those - but here's some HTML & CSS we'll need later:
 
-### III-A. The viewport &lt;meta> tag
+
+### III-A. Preview your web page on a mobile browser 
+
+- you can do this by uploading the files to banjo and opening them up on your phone
+- or use can use Chrome to simulate a browser
+- **once you have loaded the page in you should see that the text is very small, and if you added the text sizing buttons, they are too small to be usable**
+
+### III-B. The viewport &lt;meta> tag
 
 *To fit standard websites onto small screens, mobile browsers render the page on a canvas called the viewport and then shrink that viewport down to fit the width of the screen (device width). For example, on iPhones, mobile Safari sets the viewport width to 980 points so a web page is rendered as though it were on a desktop browser window set to 980 pixels wide. That rendering gets shrunk down to the width of the screen (ranging from 320 to 414 points, depending on the iPhone model), cramming a lot of information into a tiny space.*
 
@@ -49,8 +56,11 @@
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
 ```
 
+- better, but not perfect, let's move on 
 
+### III-C. CSS Media Queries
 
+- Media queries apply different styles based on characteristics of the browser: its width, whether it is vertically or horizontally oriented, its resolution, and so on
 
 
 
