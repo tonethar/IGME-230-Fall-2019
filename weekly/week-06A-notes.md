@@ -10,6 +10,8 @@
   - be able to write CSS rules - ex. make all text contained in a &lt;div> of `id="advert"` green in color
   - don't forget about the stuff we did at the beginning of the course (the HTTP protocol, .htaccess files, Unix commands, etc)
 
+<hr>
+
 ## II. The CSS Box Model
 
 - Review Chapter 14 Slides - "Thinking Inside the Box"
@@ -31,18 +33,23 @@
   - `display:` - `block`, `inline`, and `none` are the most commonlyn used
   - `box-shadow` 
 
+<hr>
+
 ## III. Demo - Responsive Design with Media Queries
 
 - For Project 1 - we are skipping past LWD chapters 15 & 16 for now - and focusing in on media queries from chapter 17
 - Today let's try some of this out in the Holmes HW
 - The slides cover this pretty well, so we'll go through those - but here's some HTML & CSS we'll need later:
 
+<hr>
 
 ### III-A. Preview your web page on a mobile browser 
 
 - you can do this by uploading the files to banjo and opening them up on your phone
 - or use can use Chrome to simulate a browser
 - **once you have loaded the page in you should see that the text is very small, and if you added the text sizing buttons, they are too small to be usable**
+
+<hr>
 
 ### III-B. The viewport &lt;meta> tag
 
@@ -57,6 +64,8 @@
 ```
 
 - better, but not perfect, let's move on 
+
+<hr>
 
 ### III-C. CSS Media Queries
 
