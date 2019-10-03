@@ -63,8 +63,6 @@ This week we will discuss the [Apache](http://httpd.apache.org) web server that 
  
 ## <a id="week8">Week 8 : JavaScript DOM
   
-The midterm exam will given the last class meeting of week 8
-  
   - [Week 8 - Review & Midterm Exam](weekly/week-08-notes.md)
   
 ## <a id="week9">Week 9 :  JavaScript Functions & Events
