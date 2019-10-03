@@ -35,6 +35,8 @@
 
 <hr>
 
+<a id="responsivedesign"></a>
+
 ## III. Demo - Responsive Design with Media Queries
 
 - For Project 1 - we are skipping past LWD chapters 15 & 16 for now - and focusing in on media queries from chapter 17
