@@ -153,7 +153,7 @@ There will be a "Deliverable B" for this project so keep working on it even afte
       - CSS rollovers are required on your navigation systems
   3) **Images must be *optimized:***:
       - the dimensions of all image files must be no larger than necessary
-      - the image files must be saved ion a web friendly format and then compressed to save file size:
+      - the image files must be saved in a web friendly format and then compressed to save file size:
         - jpegs should be no larger that 50kB (and can often be much smaller)
         - pngs should be no larger that 100kB (and can often be much smaller)
   4) **Global navigation system:** (the one that navigates between your two pages):
