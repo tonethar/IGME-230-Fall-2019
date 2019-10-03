@@ -1,6 +1,6 @@
 # Project 1 - Tutorial Web Site - Deliverable A
 
-***Note: The requirements for this deliverable are the basic layout and content - we will do most of the styling and responsiveness later.***
+***Note: The requirements for Deliverable A are the basic layout and content - we will do most of the styling and responsiveness later.***
 
 <hr>
 
