@@ -1,4 +1,4 @@
-# Week 3A - Review of HTML
+# Week 3A - Intro to HTML
 
 ## I. Topics & Overview
 - Reminder: I have office hours 4 days a week (see [syllabus.md](../syllabus.md)) - come see me if you have questions!
