@@ -24,6 +24,8 @@ VIII. [Submission Requirements](#submissionrequirements)
 
 IX. [Next Steps](#nextsteps)
 
+X. [Final Deliverable](#finaldeliverable)
+
 
 <hr>
 
@@ -138,9 +140,27 @@ There will be a "Deliverable B" for this project so keep working on it even afte
 - keep improving the *organization & layout*
 - keep improving the *design*
 - utilize a *custom font* for this site - see https://fonts.google.com
-- we WILL be requiring a *responsive layout*, that uses CSS Flexbox and/or CSS Grid:
-  - CSS Flexbox/CSS Grid are covered in *LWD* chapter 16
-  - media queries and other responsive techniques are covered in *LWD* chapter 17
 
+<a id="finaldeliverable"></a>
+
+## X. Final Deliverable
+
+- Here are the requirements for the final version of your tutorial project:
+  - utilize a *custom font* for this site - see https://fonts.google.com
+  - in addition to the above CSS requirements:
+    - you will need to have distinctive styles for at least 3 screen size "breakpoints" - at least one of these breakpoints must target smart phones 
+    - use a variety of CSS selectors with your project - at a minimum use at least one of each of the following selectors: *class*, *type*, *id*, and *descendant*
+  - site images must be *optimized*:
+    - the dimensions of all image files must be no larger than necessary
+    - the image files must be saved ion a web friendly format and then compressed to save file size:
+      - jpegs should be no larger that 50kB (and can often be much smaller)
+      - pngs should be no larger that 100kB (and can often be much smaller)
+  - global navigation system (the one that navigates between your two pages):
+    - CSS rollover effects are used
+    - The names of both pages are visible, but only the "other page" is an actual link
+    - The name of the current page should look different so that the user knows "where they are"
+  - local navigation system:
+    - 
+  
 
 
