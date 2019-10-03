@@ -7,12 +7,12 @@
 |-------------|---------------|---------------------------------------------------------------------|---------|
 | 1           | Aug 26        | [How the course works, how the web works](#week1)                   |         |
 | 2           | Sep 2         | [Command-line UNIX & .htaccess files](#week2)                              |  Sep 2: Labor Day       |
-| 3           | Sep 09        | [Review of HTML](#week3)                       |         |
+| 3           | Sep 09        | [Introduction to HTML](#week3)                       |         |
 | 4           | Sep 16        | [Intro to CSS](#week4)                 |         |
-| 5           | Sep 23        | [Extra Bells & Whistles, Advanced Tools, and putting it all together](#week5) | Sep 25-26: Career Fair        |
-| 6           | Sep 30        | [Server-side Programming - PHP: Hypertext Preprocessor](#week6)     |         |
-| 7           | Oct 7         | [Catch-up / Midterm Exam](#week7)                                   |         |
-| 8           | Oct 14        | [JavaScript Review / JavaScript DOM](#week8)         | Oct 14-15: October Break        |
+| 5           | Sep 23        | [More CSS, work on Project 1](#week5) | Sep 25-26: Career Fair        |
+| 6           | Sep 30        | [Box Model/Media Queries/Navigation Design](#week6)     |         |
+| 7           | Oct 7         | [Intro to JavaScript / Midterm Exam](#week7)                                   |         |
+| 8           | Oct 14        | [JavaScript DOM](#week8)         | Oct 14-15: October Break        |
 | 9           | Oct 21        | [JavaScript Functions & Events](#week9)                             |         |
 | 10          | Oct 28        | [JavaScript Object Literals, Arrays](#week10)                       |         |
 | 11          | Nov 4         | [JavaScript Webstorage, Web Services, Portfolios](#week11)          |         |
@@ -37,31 +37,31 @@ This week we will discuss the [Apache](http://httpd.apache.org) web server that 
  
  - [Week 2 - Command-line UNIX & .htaccess files](weekly/week-02-notes.md)
 
-## <a id="week3">Week 3 : Review of HTML
+## <a id="week3">Week 3 : Introduction to HTML
   
-  - [Week 3A - Review of HTML](weekly/week-03A-notes.md)
-  - [Week 3B - More HTML](weekly/week-03B-notes.md)
+  - [Week 3A - Intro to HTML](weekly/week-03A-notes.md)
+  - [Week 3B - More HTML - Links, Lists, and Paths](weekly/week-03B-notes.md)
   
 ## <a id="week4">Week 4 : Intro to CSS
   
-  - [Week 4A - CSS](weekly/week-04A-notes.md)
-  - [Week 4B - More CSS](weekly/week-04B-notes.md)
+  - [Week 4A - Images & CSS](weekly/week-04A-notes.md)
+  - [Week 4B - Formating Text with CSS](weekly/week-04B-notes.md)
   
-## <a id="week5">Week 5 : Extra Bells & Whistles, Advanced Tools, and putting it all together
+## <a id="week5">Week 5 : More CSS
   
-  - [Week 5A - Navigation Systems](weekly/week-05A-notes.md)
-  - [Week 5B - Visual Design](weekly/week-05B-notes.md)
+  - [Week 5A - Colors & Backgrounds](weekly/week-05A-notes.md)
+  - [Week 5B - Work on Project 1](weekly/week-05B-notes.md)
   
-## <a id="week6">Week 6 : Server-side Programming - PHP: Hypertext Preprocessor
+## <a id="week6">Week 6 : Box Model/Media Queries/Navigation Design
   
-  - [Week 6A - The Site Design Process & CSS Flexbox](weekly/week-06A-notes.md)
-  - [Week 6B - Project 1 Critique](weekly/week-06B-notes.md)
+  - [Week 6A - Box Model / Media Queries](weekly/week-06A-notes.md)
+  - [Week 6B - Navigation Design / Project 1 Critique](weekly/week-06B-notes.md)
   
-## <a id="week7">Week 7 : Frameworks, Libraries, Templates, JavaScript Intro
+## <a id="week7">Week 7 : JavaScript Intro / Midterm Exam
    
    - [Week 7 - Introduction to Client-side Programming](weekly/week-07-notes.md)
  
-## <a id="week8">Week 8 : JavaScript DOM & Midterm Exam
+## <a id="week8">Week 8 : JavaScript DOM
   
 The midterm exam will given the last class meeting of week 8
   
