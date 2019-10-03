@@ -1,7 +1,7 @@
 # Week 6B - Navigation Design & Project 1 Critique
 
 ## I. Project 1
-- The final requirements for [Project 1](../projects/project-1.md) are posted
+- The final requirements for [Project 1](../projects/project-1.md#finaldeliverable) are posted
 - See myCourses for due date
 - PS - a lot of your pages had HTML validation **errors** - fix these!
 
