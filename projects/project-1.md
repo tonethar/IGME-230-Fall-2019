@@ -145,22 +145,24 @@ There will be a "Deliverable B" for this project so keep working on it even afte
 
 ## X. Final Deliverable
 
-- Here are the requirements for the final version of your tutorial project:
-  - utilize a *custom font* for this site - see https://fonts.google.com
-  - in addition to the above CSS requirements:
+- Here are the additional requirements for the final version of your tutorial project:
+  1) **A *custom font*** is utilized for this site - see https://fonts.google.com
+  2) **CSS** - in addition to the above requirements:
     - you will need to have distinctive styles for at least 3 screen size "breakpoints" - at least one of these breakpoints must target smart phones 
     - use a variety of CSS selectors with your project - at a minimum use at least one of each of the following selectors: *class*, *type*, *id*, and *descendant*
-  - site images must be *optimized*:
+    - CSS rollovers are required on your navigation systems
+  3) **Images must be *optimized:***:
     - the dimensions of all image files must be no larger than necessary
     - the image files must be saved ion a web friendly format and then compressed to save file size:
       - jpegs should be no larger that 50kB (and can often be much smaller)
       - pngs should be no larger that 100kB (and can often be much smaller)
-  - global navigation system (the one that navigates between your two pages):
+  4) **Global navigation system:** (the one that navigates between your two pages):
     - CSS rollover effects are used
     - The names of both pages are visible, but only the "other page" is an actual link
     - The name of the current page should look different so that the user knows "where they are"
-  - local navigation system:
-    - 
+  5) **Local navigation system:**
+    - It's still required! See above.
+    - CSS rollover effects are used
   
 
 
