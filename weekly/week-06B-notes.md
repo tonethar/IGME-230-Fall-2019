@@ -3,11 +3,10 @@
 ## I. Project 1
 - The final requirements for [Project 1](../projects/project-1.md) are posted
 - See myCourses for due date
+- PS - a lot of your pages had HTML validation **errors** - fix these!
 
 ## II. Navigation Design
-
 - Let's take a quick look at some of the basics of navigation design and the common types (global, local, audience specific, site map / index, breadcrumb, topical, task oriented) - the PDF of the slides is in myCourses
-
 ## III. Project 1 Critique
 
 - At this point, your Project 1 should be substantially complete, maybe needing a few minor tweaks here and there. 
