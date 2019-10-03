@@ -161,7 +161,7 @@ There will be a "Deliverable B" for this project so keep working on it even afte
     - The names of both pages are visible, but only the "other page" is an actual link
     - The name of the current page should look different so that the user knows "where they are"
   5) **Local navigation system:**
-    - It's still required! See above.
+    - It's still required! see above
     - CSS rollover effects are used
   
 
