@@ -148,7 +148,7 @@ There will be a "Deliverable B" for this project so keep working on it even afte
 - Here are the additional requirements for the final version of your tutorial project:
   1) **A *custom font*** is utilized for the site - see https://fonts.google.com
   2) **CSS** - in addition to the above requirements:
-      - you will need to have distinctive styles for at least 3 screen size "breakpoints" - at least one of these breakpoints must target smart phones. Be sure to use the "viewport meta tag" - which we covered on [week 6A](../weekly/week-06A-notes.md#responsivedesign)
+      - you will need to have distinctive styles for at least 3 screen size "breakpoints" - at least one of these breakpoints must target smart phones. Also be sure to use the "viewport meta tag".  We covered all of this on [week 6A](../weekly/week-06A-notes.md#responsivedesign)
       - use a variety of CSS selectors with your project - at a minimum use at least one of each of the following selectors: *class*, *type*, *id*, and *descendant*
       - CSS rollovers are required on your navigation systems
   3) **Images must be *optimized:***:
