@@ -1,6 +1,6 @@
 # Week 7 - Introduction to Client-side Programming
 
-This week we will be begin constructing simple web applications, and cover the following topics:
+Soon we will be begin constructing simple web applications, and cover the following topics:
 
 - [About this Web App Tutorial Series](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-0.md)
 - [1 - Introduction to Web Applications](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-1.md)
@@ -9,7 +9,7 @@ This week we will be begin constructing simple web applications, and cover the f
 - [4 - More Web Browser DOM Methods](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-4.md)
 - [5 - JavaScript Functions](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-5.md)
 
-**Don't forget to study for the midterm exam on THursday 10/10/19 - here are some things to focus on: [midterm-review.md](../exams/midterm-review.md)**
+**Don't forget to study for the midterm exam on ThHursday 10/10/19**
 
 <hr><hr>
 
