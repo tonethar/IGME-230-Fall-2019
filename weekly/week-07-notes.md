@@ -1,5 +1,12 @@
 # Week 7 - Introduction to Client-side Programming
 
+## I. Midterm Exam is next time!
+
+- Any questions?
+
+
+## II. New Topic: Client-side programming (Web DOM)
+
 Soon we will be begin constructing simple web applications, and cover the following topics:
 
 - [About this Web App Tutorial Series](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-0.md)
@@ -8,8 +15,6 @@ Soon we will be begin constructing simple web applications, and cover the follow
 - [3 - Introduction to the Web Browser DOM](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-3.md)
 - [4 - More Web Browser DOM Methods](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-4.md)
 - [5 - JavaScript Functions](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-5.md)
-
-**Don't forget to study for the midterm exam on Thursday 10/10/19**
 
 <hr><hr>
 
