@@ -178,11 +178,7 @@ There will be a "Deliverable B" for this project so keep working on it even afte
 | -------- | ------ | ---------- |
 | **tutorial.html** has required content listed in ***Section II-A. tutorial.html***  | 10 | |
 | **index.html** landing page meets requirements listed in ***Section II-B. index.html*** | 5 | |
-| The content:
-  - is of sufficient quality and quantity of to teach the subject
-  - the content is properly chunked with associated captions or subheadings
-  - and there are multiple images that effectively support the tutorial's written content
-  - All content is correctly spelled and grammatically correct. | 20 | |
+| The content is of sufficient quality and quantity of to teach the subject, is properly chunked with associated captions or subheadings, and there are multiple images that effectively support the tutorial's written content. All content uses correct spelling and is grammatically correct. | 20 | |
 | The HTML markup requirements listed in ***Section III. HTML Markup*** are met | 10 | |
 | The CSS markup requirements listed in ***Section IV. CSS*** are met | 10 | |
 | The more advanced CSS markup requirements listed in ***Section X-ii. CSS*** are met | 10 | |
