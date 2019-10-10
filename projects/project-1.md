@@ -188,9 +188,11 @@ There will be a "Deliverable B" for this project so keep working on it even afte
 | The main site has a professional design aesthetic. Proper fonts chosen for navigation, labels and main body content  | 10 | |
 | The mobile phone targeted CSS breakpoint keeps the content readable and accessible to the user and does not "break" the site | 10 | |
 
-***Deductions:***
+<hr>
 
-| ***Deductions:*** | Weight | Your Score |
+**Deductions** 
+
+| Incident | Weight | Your Score |
 | -------- | ------ | ---------- |
 | per page that does not pass HTML validation (warning are OK, errors are not) | -5 |
 | per page that does not pass CSS validation (warning are OK, errors are not) | -5 |
