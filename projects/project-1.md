@@ -178,13 +178,17 @@ There will be a "Deliverable B" for this project so keep working on it even afte
 | -------- | ------ | ---------- |
 | **tutorial.html** has required content listed in ***Section II-A. tutorial.html***  | 10 | |
 | **index.html** landing page meets requirements listed in ***Section II-B. index.html*** | 5 | |
-| The content is of sufficient quality and quantity of to teach the subject, the content is properly chunked with associated captions or subheadings, and there are multiple images that effectively support the tutorial's written content. All content is correctly spelled and grammatically correct. | 20 | |
+| The content:
+  - is of sufficient quality and quantity of to teach the subject
+  - the content is properly chunked with associated captions or subheadings
+  - and there are multiple images that effectively support the tutorial's written content
+  - All content is correctly spelled and grammatically correct. | 20 | |
 | The HTML markup requirements listed in ***Section III. HTML Markup*** are met | 10 | |
 | The CSS markup requirements listed in ***Section IV. CSS*** are met | 10 | |
 | The more advanced CSS markup requirements listed in ***Section X-ii. CSS*** are met | 10 | |
 | The global navigation system requirements listed in ***Section X-iv. Global navigation system*** are met | 5 | |
 | The local navigation system requirements listed in ***Section X-v. Local navigation system*** are met, and the system is helpful to the user  | 10 | |
-| ***Section VI. Design*** - The main site has a professional design aesthetic. Proper fonts chosen for navigation, labels and main body content  | 10 | |
+| The main site has a professional design aesthetic. Proper fonts chosen for navigation, labels and main body content  | 10 | |
 | The mobile phone targeted CSS breakpoint keeps the content readable and accessible to the user and does not "break" the site | 10 | |
 
 ***Deductions:***
