@@ -190,10 +190,10 @@ There will be a "Deliverable B" for this project so keep working on it even afte
 
 ***Deductions:***
 
-| Criteria | Weight | Your Score |
+| ***Deductions:*** | Weight | Your Score |
 | -------- | ------ | ---------- |
-| -5 per page that does not pass HTML validation (warning are OK, errors are not) | |
-| -5 per page that does not pass CSS validation (warning are OK, errors are not) | |
-| -2 per file for not following file naming conventions (see ***V-C. Other***) | |
-| -5 if the file structure that was specified in ***VII. Location of pages*** is not followed | |
-| -2 per image that does not meet the standards specified in ***X-iii. Images must be optimized*** | |
+| per page that does not pass HTML validation (warning are OK, errors are not) | -5 |
+| per page that does not pass CSS validation (warning are OK, errors are not) | -5 |
+| per file for not following file naming conventions (see ***V-C. Other***) | -2 |
+| if the file structure that was specified in ***VII. Location of pages*** is not followed | -5 |
+| per image that does not meet the standards specified in ***X-iii. Images must be optimized*** | -2 |
