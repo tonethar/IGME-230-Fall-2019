@@ -26,6 +26,8 @@ IX. [Next Steps](#nextsteps)
 
 X. [Final Deliverable](#finaldeliverable)
 
+XI. [Rubric](#rubric)
+
 
 <hr>
 
@@ -168,7 +170,6 @@ There will be a "Deliverable B" for this project so keep working on it even afte
       - It's still required! see above
       - CSS rollover effects are used
   
-<hr><hr>
 
 <a id="rubric"></a>
 
@@ -194,5 +195,4 @@ There will be a "Deliverable B" for this project so keep working on it even afte
 -5 if the file structure that was specified in ***VII. Location of pages*** is not followed
 -2 per image that does not meet the standards specified in ***X-iii. Images must be optimized***
 
-<hr><hr>
 
