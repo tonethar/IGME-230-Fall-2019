@@ -8,7 +8,7 @@
 
 ## III. Project 2
 - Project requirements are here: [project-2.md](../projects/project-2.md)
-- You can see project 2 examples from last semester here: [week-01A-notes.md#project2](./week-01A-notes.md#project2)
+- We will look at getting teams formed next week
 
 <hr><hr>
 
