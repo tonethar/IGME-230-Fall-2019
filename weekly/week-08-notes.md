@@ -18,7 +18,12 @@
 
 ## IV. Todays Demos
 - Review **web-apps-2-HW.html** Homework
-- Review Concepts in **3 - Introduction to the Web Browser DOM**
+- Review Concepts in **3 - Introduction to the Web Browser DOM**:
+  - selecting and modifying elements on the page
+  - did the page load?
+  - [document.querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
+  - [document.querySelectorAll()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
+  - the web inspector
 - Paired Activity
 
 <hr><hr>
