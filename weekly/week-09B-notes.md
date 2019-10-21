@@ -3,6 +3,7 @@
 ## I. JavaScript Arrays & Web Storage
 We will cover parts VIII (Arrays), IX (Web Storage) and X (Web Services) of the web app tutorial. The links to these pages are here:
 
+- [7 - Object Literals](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-7.md)
 - [8 - JavaScript Arrays](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-8.md)
 - [9 - Web Storage](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-9.md)
 - [10 - Web Services](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-10.md)
