@@ -5,7 +5,7 @@
 - Any questions?
   - Web Apps-3
   - Web Apps-4
-  - Random Phrases
+  - [HW - Random Phrases](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-random-phrases-1.md)
 
 ## II. JavaScript DOM Methods, Functions, and Events
 We will cover more JavaScript and browser DOM methods:
