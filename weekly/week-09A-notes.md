@@ -21,7 +21,7 @@ We will cover more JavaScript and browser DOM methods:
 
 ## IV. Today's HW - Fun Suggester II - *Son of Fun Suggester*
 
-<!-- - https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-fun-suggester-2.md -->
+- https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-fun-suggester-2.md
 
 <hr><hr>
 
