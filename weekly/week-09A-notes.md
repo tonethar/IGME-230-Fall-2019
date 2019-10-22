@@ -3,6 +3,9 @@
 ## I Recent Homework
 
 - Any questions?
+  - Web Apps-3
+  - Web Apps-4
+  - Random Phrases
 
 ## II. JavaScript DOM Methods, Functions, and Events
 We will cover more JavaScript and browser DOM methods:
