@@ -1,7 +1,7 @@
 # Week 9A Notes
 
 ## I. JavaScript DOM Methods, Functions, and Events
-We will cover parts VI (Events) and VII (JavaScript Object Literals) - the links to these pages are here:
+We will cover more JavaScript and browser DOM methods:
 
 - [4 - More Web Browser DOM Methods](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-4.md)
 - [5 - JavaScript Functions](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-5.md)
