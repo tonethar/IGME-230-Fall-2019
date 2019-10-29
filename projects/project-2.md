@@ -77,14 +77,9 @@ For this project you and a partner) are creating a JavaScript driven Web applica
 ### C. HTML/CSS & Media
 - Valid HTML5 - https://validator.w3.org
 - Valid CSS - https://jigsaw.w3.org/css-validator/
-- Most CSS is in an external style sheet.
+- Most CSS is in one or more external stylesheets external style sheet.
 - Use HTML5 semantic and structural elements where practical.
 - Images are properly optimized for Web delivery.
-- you ARE allowed to use CSS frameworks on the UI for this (and future) projects, such as:
-    - http://getbootstrap.com
-    - http://materializecss.com
-    - https://purecss.io
-    - https://github.com/troxler/awesome-css-frameworks
 
 
 ### D. Code Conventions
