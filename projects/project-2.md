@@ -57,20 +57,20 @@ For this project you and a partner) are creating a single-page JavaScript driven
 
 ### B. Design & Interaction
 1. Pleasing graphic design:
-  - with a custom interface coded in HTML/CSS, by you
-  - this interface does not resemble the GIPHY homework's UI
+    - with a custom interface coded in HTML/CSS, by you
+    - this interface does not resemble the GIPHY homework's UI
 2. Widgets are well labeled and follow interface conventions, for example:
-  - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options - https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
+    - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options - https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
   
 3. Users should be able to figure out how to use the app with minimal instruction:
-  - be sure to provide instruction and tooltips if necessary
+    - be sure to provide instruction and tooltips if necessary
 4. User errors must be handled gracefully:
-  - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
+    - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
 5. Users must know what *state* the app is in at all times:
-  - for example, when they click the search button, there should some indication that a search is happening:
-    - text that says "Searching for 'Tacos' near you" and so on
-    - a "spinner" or other "indeterminate progress" animation - [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
-    - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
+    - for example, when they click the search button, there should some indication that a search is happening:
+      - text that says "Searching for 'Tacos' near you" and so on
+      - a "spinner" or other "indeterminate progress" animation - [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
+      - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
 
 ### C. HTML
 1. Structural tags like `<header>`, `<section>`, `<article>`, `<nav>`, and `<footer>` should be used appropriately.
@@ -81,54 +81,52 @@ For this project you and a partner) are creating a single-page JavaScript driven
 ### D. CSS
 1. the CSS 100% done by you - no CSS libraries or templates are allowed on this project
 2. CSS selectors and rules will be used for text formatting: 
-  - Most of the style rules will be located in an **external style sheet**
-  - There will be at least 5 style declarations (rules) in your **external style sheet**
-  - Avoid using **inline styles**
+    - Most of the style rules will be located in an **external style sheet**
+    - There will be at least 5 style declarations (rules) in your **external style sheet**
+    - Avoid using **inline styles**
 3. use a variety of CSS selectors with your project - at a minimum use at least one of each of the following selectors: *class*, *type*, *id*, and *descendant*
 4. Valid CSS - https://jigsaw.w3.org/css-validator/
 
 ### E. Layout
 1. use CSS Grid and/or CSS Flexbox layout (see chapters 16 & 17)
-  - you will most likely have a multi-column layout on the desktop version
-  - you will most likely have a single-column layout on the mobile version
+    - you will most likely have a multi-column layout on the desktop version
+    - you will most likely have a single-column layout on the mobile version
 2. you will need to have distinctive styles for at least 3 screen size "breakpoints":
-  - at least one of these breakpoints must target smart phones
-  - the distinct styles for the breakpoints must be done for an aesthetic or usability reason, and not merely be done to "meet requirements". For example, changing the background (for no particular reason) from blue to green for the mobile version of your site would NOT meet this requirement
+    - at least one of these breakpoints must target smart phones
+    - the distinct styles for the breakpoints must be done for an aesthetic or usability reason, and not merely be done to "meet requirements". For example, changing the background (for no particular reason) from blue to green for the mobile version of your site would NOT meet this requirement
 3. be sure to use the "viewport meta tag"
 
 ### F. Media
 1. **A *custom font*** is utilized for the site - see https://fonts.google.com
 2. the dimensions of all image files must be *optimized*:
-  - this means they are in the proper format and are no larger than necessary
-  - the image files must be saved in a web friendly format and then compressed to save file size
-  - jpegs and pngs should be no larger that 50kB (and can often be much smaller)
+    - this means they are in the proper format and are no larger than necessary
+    - the image files must be saved in a web friendly format and then compressed to save file size
+    - jpegs and pngs should be no larger that 50kB (and can often be much smaller)
 
 ### G. Code Conventions
-- 1. DO NOT use any JavaScript libraries (ex. jQuery) - instead - this code will be 100% created by you
-- 2. All JavaScript code is an external JavaScript file
-- 3. *inline* (attribute) event handlers are NOT allowed - ex. `<button onclick="doStuff">Click Me!</button>`
-- 4. `let` and `const` must be used to declare variables (no `var`!)
-- 5. `querySelector()` and `querySelectorAll()` must be used for DOM traversal (DO NOT use the older methods such as `document.getElementsByTagName()` or `document.getElementById()`)
-- 6. **D.R.Y. - Don't Repeat Yourself.** Repeated blocks of nearly identical code must be factored out and placed in a separate function.
-- 7. Variable and function names must begin with a lowercase letter.
-- 8. Well-commented code. Each and every function gets a comment indicating what it does.
-- 9. Delete or comment out any `console.log()` calls.
+1. DO NOT use any JavaScript libraries (ex. jQuery) - instead, this code will be 100% created by you
+2. All JavaScript code is an external JavaScript file
+3. *inline* (attribute) event handlers are NOT allowed - ex. `<button onclick="doStuff">Click Me!</button>`
+4. `let` and `const` must be used to declare variables (no `var`!)
+5. `querySelector()` and `querySelectorAll()` must be used for DOM traversal (DO NOT use the older methods such as `document.getElementsByTagName()` or `document.getElementById()`)
+6. **D.R.Y. - Don't Repeat Yourself.** Repeated blocks of nearly identical code must be factored out and placed in a separate function.
+7. Variable and function names must begin with a lowercase letter.
+8. Well-commented code. Each and every function gets a comment indicating what it does.
+9. Delete or comment out any `console.log()` calls.
 
 ## III. Milestones
-- Project proposal with mockup - see myCourses for due date/time. One submission per team please. Make sure both team members' names are included.
-- Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
+1. Project proposal with mockup - see myCourses for due date/time. One submission per team please. Make sure both team members' names are included.
+2. Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
 
 ## IV. Documentation
-- In your myCourses submission, include documentation (as a PDF file) where you document your process, cite any sources (tutorials, images, code fragments, etc), tell me where to find anything special you want me to see, and also explain how you met the requirements
-- Detail what each team member did
-- Finally, give yourselves a grade for the project that you feel fairly represents what its worth.
+1. In your myCourses final project submission, include documentation (as a PDF file) where you document your process, cite any sources (tutorials, images, code fragments, etc), tell me where to find anything special you want me to see, and also explain how you met the requirements
+    - Detail what each team member did
+    - Finally, give yourselves a grade for the project that you feel fairly represents what its worth.
 
 
 ## V. Grading
-- *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
 
-Your project will be graded on the following criteria:  
-(note:  This rubric is subject to change prior to 3/30/2019, after that date, it will no longer change)
+- Your project will be graded on the following criteria:  
 
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
@@ -166,8 +164,9 @@ Note:
 - **Best** (Go significantly beyond expectations in 2 or more areas) = 100%
 
 ## VI. Submission
+- Post the project to your `230/` folder on Banjo
 - ZIP and post the completed project and documentation page to to the mycourses dropbox
-- Post the project to Banjo and link it from your 230 home page
+- Put the link in the comments field of the dropbox
 
 <hr><hr>
 
