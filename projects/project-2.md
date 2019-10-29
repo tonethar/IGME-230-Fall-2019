@@ -56,48 +56,73 @@ For this project you and a partner) are creating a JavaScript driven Web applica
 4. Finally, there will be no JavaScript errors or exceptions thrown by the app.
 
 ### B. Design & Interaction
-- Pleasing graphic design:
+1. Pleasing graphic design:
   - with a custom interface coded in HTML/CSS, by you
   - this interface does not resemble the GIPHY homework's UI
-- Widgets are well labeled and follow interface conventions, for example:
+2. Widgets are well labeled and follow interface conventions, for example:
   - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options - https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
   
-- Users should be able to figure out how to use the app with minimal instruction:
+3. Users should be able to figure out how to use the app with minimal instruction:
   - be sure to provide instruction and tooltips if necessary
-- User errors must be handled gracefully:
+4. User errors must be handled gracefully:
   - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
-- Users must know what *state* the app is in at all times:
+5. Users must know what *state* the app is in at all times:
   - for example, when they click the search button, there should some indication that a search is happening:
     - text that says "Searching for 'Tacos' near you" and so on
     - a "spinner" or other "indeterminate progress" animation - [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
     - here are some "spinner" images you could use (show them when the search starts, and hide them when the search ends): http://ajaxloaders.net/2012/10/spinner-loading-animations-set-1/
-- While the app doesn't need to be fully responsive, it should look good on a range of displays. For example, don't design it just to work on your huge 24" screen at home (as I'll be grading it on a laptop with a much smaller screen). The main controls of the application must fit in a 1024x768 window.
-- You are allowed and encouraged to use a CSS framework for this project - see below!
 
-### C. HTML/CSS & Media
-- Valid HTML5 - https://validator.w3.org
-- Valid CSS - https://jigsaw.w3.org/css-validator/
-- Most CSS is in one or more external stylesheets external style sheet.
-- Use HTML5 semantic and structural elements where practical.
-- Images are properly optimized for Web delivery.
+### C. HTML
+1. Structural tags like `<header>`, `<section>`, `<article>`, `<nav>`, and `<footer>` should be used appropriately.
+2. Inline text marked up as appropriate
+3. Valid HTML5 - https://validator.w3.org
 
 
-### D. Code Conventions
-- All code is an external JavaScript file - inline event handlers are not allowed
-- `let` and `const` must be used to declare variables (no `var`!)
-- `querySelector()` and `querySelectorAll()` must be used for DOM traversal (DO NOT use the older methods)
-- D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function.
-- Variable and function names must begin with a lowercase letter.
-- Well-commented code. Each and every function gets a comment indicating what it does.
-- Delete or comment out any `console.log()` calls.
+### D. CSS
+1. the CSS 100% done by you - no CSS libraries or templates are allowed on this project
+2. CSS selectors and rules will be used for text formatting: 
+  - Most of the style rules will be located in an **external style sheet**
+  - There will be at least 5 style declarations (rules) in your **external style sheet**
+  - Avoid using **inline styles**
+3. use a variety of CSS selectors with your project - at a minimum use at least one of each of the following selectors: *class*, *type*, *id*, and *descendant*
+4. Valid CSS - https://jigsaw.w3.org/css-validator/
+
+### E. Layout
+1. use CSS Grid and/or CSS Flexbox layout (see chapters 16 & 17)
+  - you will most likely have a multi-column layout on the desktop version
+  - you will most likely have a single-column layout on the mobile version
+2. you will need to have distinctive styles for at least 3 screen size "breakpoints":
+  - at least one of these breakpoints must target smart phones
+  - the distinct styles for the breakpoints must be done for an aesthetic or usability reason, and not merely be done to "meet requirements". For example, changing the background (for no particular reason) from blue to green for the mobile version of your site would NOT meet this requirement
+3. be sure to use the "viewport meta tag"
+
+### F. Media
+1. **A *custom font*** is utilized for the site - see https://fonts.google.com
+2. the dimensions of all image files must be *optimized*:
+  - this means they are in the proper format and are no larger than necessary
+  - the image files must be saved in a web friendly format and then compressed to save file size
+  - jpegs and pngs should be no larger that 50kB (and can often be much smaller)
+
+### G. Code Conventions
+- 1. DO NOT use any JavaScript libraries (ex. jQuery) - instead - this code will be 100% created by you
+- 2. All JavaScript code is an external JavaScript file
+- 3. *inline* (attribute) event handlers are NOT allowed - ex. `<button onclick="doStuff">Click Me!</button>`
+- 4. `let` and `const` must be used to declare variables (no `var`!)
+- 5. `querySelector()` and `querySelectorAll()` must be used for DOM traversal (DO NOT use the older methods such as `document.getElementsByTagName()` or `document.getElementById()`)
+- 6. **D.R.Y. - Don't Repeat Yourself.** Repeated blocks of nearly identical code must be factored out and placed in a separate function.
+- 7. Variable and function names must begin with a lowercase letter.
+- 8. Well-commented code. Each and every function gets a comment indicating what it does.
+- 9. Delete or comment out any `console.log()` calls.
 
 ## III. Milestones
 - Project proposal with mockup - see myCourses for due date/time. One submission per team please. Make sure both team members' names are included.
 - Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
 
 ## IV. Documentation
-- As with Project 1, include a Documentation page (put the link in the comments field of the dropbox, as well as an easy to find link in the project site itself) where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth.
-- If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect.
+- In your myCourses submission, include documentation (as a PDF file) where you document your process, cite any sources (tutorials, images, code fragments, etc), tell me where to find anything special you want me to see, and also explain how you met the requirements
+- Detail what each team member did
+- Finally, give yourselves a grade for the project that you feel fairly represents what its worth.
+
 
 ## V. Grading
 - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
