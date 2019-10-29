@@ -1,4 +1,4 @@
-# Project 2 - Web Service Application - DRAFT
+# Project 2 - Web Service Application
 
 ## I. Overview
 
@@ -128,7 +128,7 @@ For this project you and a partner) are creating a single-page JavaScript driven
     - Finally, give yourselves a grade for the project that you feel fairly represents what its worth.
 
 
-## V. Grading
+## V. Grading (rubric needs to be updated)
 
 - Your project will be graded on the following criteria:  
 
