@@ -74,8 +74,9 @@ For this project you and a partner) are creating a single-page JavaScript driven
 
 ### C. HTML
 1. Structural tags like `<header>`, `<section>`, `<article>`, `<nav>`, and `<footer>` should be used appropriately.
-2. Inline text marked up as appropriate
-3. Valid HTML5 - https://validator.w3.org
+2. The names of both team members must be visible somewhere on the page
+3. Inline text marked up as appropriate
+4. Valid HTML5 - https://validator.w3.org
 
 
 ### D. CSS
@@ -99,8 +100,7 @@ For this project you and a partner) are creating a single-page JavaScript driven
 ### F. Media
 1. **A *custom font*** is utilized for the site - see https://fonts.google.com
 2. the dimensions of all image files must be *optimized*:
-    - this means they are in the proper format and are no larger than necessary
-    - the image files must be saved in a web friendly format and then compressed to save file size
+    - this means they are in the proper web-friendly file format and are no larger than necessary
     - jpegs and pngs should be no larger that 50kB (and can often be much smaller)
 
 ### G. Code Conventions
@@ -115,7 +115,11 @@ For this project you and a partner) are creating a single-page JavaScript driven
 9. Delete or comment out any `console.log()` calls.
 
 ## III. Milestones
-1. Project proposal with mockup - see myCourses for due date/time. One submission per team please. Make sure both team members' names are included.
+1. Working prototype:
+    - one submission per team please - the NMID student will make the submission
+    - the basic functionality of the web service should be present
+    - the desktop version of the layout should should demonstrate a CSS Grid and/or Flexbox layout
+    - make sure that both team members' names are in the comments field of the dropbox.
 2. Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
 
 ## IV. Documentation
