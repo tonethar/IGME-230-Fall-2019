@@ -92,7 +92,7 @@ The site must be placed in a portfolio directory inside of your 235 directory (`
 ## 8. Grading
 
 ### Rubrics:
-Your Portfolio will count as a homework assignment (but will be worth 3 times the normal homework value):
+
  
   Requirement | Possible Points (25) |
 ----------- | --------------- |
@@ -123,18 +123,18 @@ Documentation | 2 |
 ## 11. Additional Examples
 
 ### A. http://www.adhamdannaway.com
-![http://www.adhamdannaway.com](_images/dannaway.jpg)
+![http://www.adhamdannaway.com](images/dannaway.jpg)
 
 
 ### B. Here is the mobile version of the same page
-![http://www.adhamdannaway.com](_images/dannaway-mobile.jpg)
+![http://www.adhamdannaway.com](images/dannaway-mobile.jpg)
 
 
 ### C. http://dougwatro.com
-![dougwatro.com](_images/watro.jpg)
+![dougwatro.com](images/watro.jpg)
 
 
 ### D. Lynda.com Bootstrap example
-![Lynda.com Bootstrap example](_images/wisdom-pet-medicine.jpg)
+![Lynda.com Bootstrap example](images/wisdom-pet-medicine.jpg)
 
 
