@@ -50,12 +50,12 @@ Some other examples are here:
 - https://onepagelove.com
 
 ## 3. Content Requirements
--The page is named index.html (or index.php), and it will include:
+-The page is named index.html, and it will include:
   - A navigation system to allow the user to quickly access distinct content.
   - Your name and an image (could be a photo or an avatar)
   - A *tagline* (see #2 here: https://blog.prototypr.io/10-steps-to-the-perfect-portfolio-website-182b1adcbfc8) - example: "Creative Developer," "Unity/Unreal Game Developer seeking an internship opportunity," etc.
   - "About you" content - example: "I'm a UX/UI Designer and Front End Developer from Sydney, Australia. I enjoy turning complex problems into simple, beautiful and intuitive interface designs. When I'm not coding or pushing pixels, you'll find me in the gym or on the court shooting hoops."
-  - Contact information and a PHP-based **contact form**
+  - Contact information
   - A gallery section with brief information about each of your work examples (examples can be projects or exercises from this class or other classes, or work you've done on your own)
   - Individual sub-section sections with more detail for each of your work examples:
     - Each example needs a title, an image (could be a screenshot, photo, or link to a working demo video), and a one-paragraph description that highlights the tools you used and the skills that it illustrates. If the example is interactive and can play in a Web browser, a link to a working version should be provided.
@@ -96,13 +96,12 @@ The site must be placed in a portfolio directory inside of your 235 directory (`
  
   Requirement | Possible Points (25) |
 ----------- | --------------- |
-Required content present | 4 |
+Required content present | 5 |
 Written content quality and organization | 3 |
 Visual Design | 3 |
 Typography | 1 |
-Navigation System | 1 |
+Navigation System | 2 |
 Responsive Design | 3 |
-Functional PHP contact form | 2 |
 Semantic, valid HTML | 1 |
 Well-structured, valid CSS | 1 |
 Properly optimized media | 1 |
