@@ -1,7 +1,7 @@
 # Project 3B - Web Portfolio
 
 ## 1. Overview
-One thing that we hear again and again from employers is how essential it is for GDD/NMID and New Media Design students to have a portfolio of "passion projects" (or side projects outside of class) to demonstrate their talent and passion for creating games and interactive experiences. The most common way to let others see these projects is by posting them to the Web in a formal portfolio. 
+One thing that we hear again and again from employers is how essential it is for NMID and New Media Design students to have a portfolio of "passion projects" (or side projects outside of class) to demonstrate their talent and passion for creating interactive experiences. The most common way to let others see these projects is by posting them to the Web in a formal portfolio. 
 
 Each creative piece or work should be showcased with at least one of the following:
 - a description
